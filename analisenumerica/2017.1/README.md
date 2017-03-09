@@ -18,7 +18,7 @@ Aulas
 
 |Aula  |  Dia     | Sistemas lineares                                            | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|1-2   |  09 Mar  | Introdução.                                                  |             |
+|1-2   |  09 Mar  | Introdução.                                                  |[00-Intro], [01-Pseudo], [02-SL]|
 |3-4   |  14 Mar  | Conceitos fundamentais.                                      |             |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |5-6   |  21 Mar  | Sistemas triangulares.                                       |             |
@@ -66,6 +66,6 @@ Aulas
 
 
 
-[00-Introdução]: ../../ancn_slides/00-Intro.pdf
-[01-Pseucocódigo]: ../../ancn_slides/01-Conceitos.pdf
-[02-SistemasLineares]: ../../ancn_slides/02-SistemasLineares.pdf
+[00-Intro]: ../../ancn_slides/00-Intro.pdf
+[01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
+[02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
