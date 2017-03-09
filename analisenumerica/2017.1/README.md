@@ -66,5 +66,6 @@ Aulas
 
 
 
-[00-Apresentação]: ./slides/00-Apresentacao.pdf
-[01-Introdução]: ./slides/01-Introducao.pdf
+[00-Introdução]: ../../ancn_slides/00-Intro.pdf
+[01-Pseucocódigo]: ../../ancn_slides/01-Conceitos.pdf
+[02-SistemasLineares]: ../../ancn_slides/02-SistemasLineares.pdf
