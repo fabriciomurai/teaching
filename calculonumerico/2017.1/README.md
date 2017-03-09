@@ -19,7 +19,7 @@ Aulas
 
 |Aula  |  Dia     | Sistemas lineares                                            | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|1-2   |  09 Mar  | Introdução.                                                  |             |
+|1-2   |  09 Mar  | Introdução.                                                  |[00-Intro], [01-Pseudo], [02-SL]|
 |3-4   |  14 Mar  | Conceitos fundamentais.                                      |             |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |5-6   |  21 Mar  | Sistemas triangulares.                                       |             |
@@ -46,6 +46,9 @@ Aulas
 |33-34 |  09 Mai  | Regressão linear simples e múltipla                          |             |
 |35-36 |  11 Mai  | Qualidade do ajuste.                                         |             |
 |37-38 |  16 Mai  | Decomposição QR                                              |             |
+
+|aula  |  dia     | Integração numérica                                          | Link Slides |
+|------|----------|--------------------------------------------------------------|-------------|
 |39-40 |  18 Mai  | Fórmulas de Newton-Cotes.                                    |             |
 |41-42 |  23 Mai  | Erro de integração de Newton-Cotes.                          |             |
 |43-44 |  25 Mai  | Quadratura de Gauss-Legendre.                                |             |
@@ -65,5 +68,6 @@ Aulas
 
 
 
-[00-Apresentação]: ./slides/00-Apresentacao.pdf
-[01-Introdução]: ./slides/01-Introducao.pdf
+[00-Intro]: ../../ancn_slides/00-Intro.pdf
+[01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
+[02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
