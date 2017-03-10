@@ -11,6 +11,10 @@ Horário: Ter/Qui 17:00 - 18:40
 
 Turmas: TZ
 
+Atualizações importantes!
+-------------------------
+* Mar 10: Correção na descrição do método de Newton nos slides [00-Intro]. A fórmula correta é
+ x_{n+1} = x_n - f(x_n)/f'(x_n).
 
 Aulas
 -----
