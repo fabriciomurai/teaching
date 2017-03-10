@@ -14,6 +14,7 @@ Turmas: TE1 e TE2
 Atualizações importantes!
 -------------------------
 * Mar 10: Correção na descrição do método de Newton nos slides [00-Intro]. A fórmula correta é
+
  x_{n+1} = x_n - f(x_n)/f'(x_n).
 
 Aulas
@@ -71,6 +72,6 @@ Aulas
 
 
 
-[00-Intro]: ../../ancn_slides/00-Intro.pdf
+[00-Intro]: ../../ancn_slides/00te-Intro.pdf
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
 [02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
