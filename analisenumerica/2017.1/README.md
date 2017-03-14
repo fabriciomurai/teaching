@@ -25,7 +25,7 @@ Aulas
 |Aula  |  Dia     | Sistemas lineares                                            | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |1-2   |  09 Mar  | Introdução.                                                  |[00-Intro], [01-Pseudo], [02-SL]|
-|3-4   |  14 Mar  | Conceitos fundamentais.                                      |             |
+|3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02a-SL] [02-SL] |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |5-6   |  21 Mar  | Sistemas triangulares.                                       |             |
 |7-8   |  23 Mar  | Eliminação de Gauss.                                         |             |
@@ -33,7 +33,7 @@ Aulas
 |11-12 |  30 Mar  | Decomposição LU.                                             |             |
 |13-14 |  04 Abr  | Decomposição de Cholesky.                                    |             |
 |15-16 |  06 Abr  | Uso da decomposição.                                         |             |
-|17-18 |  08 Abr  | Prova 1. (Sábado às 10h00)                                   |             |
+|17-18 |  08 Abr  | Prova 1. (Sábado às 8:00)                                    |             |
 |19-20 |  11 Abr  | Análise de erro na solução de sistemas.                      |             |
 
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
@@ -44,7 +44,7 @@ Aulas
 |25-26 |  27 Abr  | Polinômios de Gregory-Newton.                                |             |
 |27-28 |  02 Mai  | Escolha de pontos.                                           |             |
 |29-30 |  04 Mai  | Erro de truncamento.                                         |             |
-|31-32 |  06 Mai  | Prova 2. (Sábado às 10h00)                                   |             |
+|31-32 |  06 Mai  | Prova 2. (Sábado às 08:00)                                   |             |
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -75,3 +75,4 @@ Aulas
 [00-Intro]: ../../ancn_slides/00te-Intro.pdf
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
 [02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
+[02a-SL]: ../../ancn_slides/02a-SistemasLineares.pdf
