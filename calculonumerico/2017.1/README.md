@@ -25,9 +25,9 @@ Aulas
 |Aula  |  Dia     | Sistemas lineares                                            | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |1-2   |  09 Mar  | Introdução.                                                  |[00-Intro], [01-Pseudo], [02-SL]|
-|3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02a-SL] [02-SL] |
+|3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02a-SL], [02-SL] |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|5-6   |  21 Mar  | Sistemas triangulares.                                       | [Quizz01][02-SL] |
+|5-6   |  21 Mar  | Sistemas triangulares.                                       |[Quizz01], [02-SL]|
 |7-8   |  23 Mar  | Eliminação de Gauss.                                         |             |
 |9-10  |  28 Mar  | Decomposição LU.                                             |             |
 |11-12 |  30 Mar  | Decomposição LU.                                             |             |
