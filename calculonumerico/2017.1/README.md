@@ -13,6 +13,7 @@ Turmas: TZ
 
 Atualizações importantes!
 -------------------------
+* Mar 20: Criado Google Group https://groups.google.com/d/forum/cn-2017-1. Por favor entre no grupo.
 * Mar 10: Correção na descrição do método de Newton nos slides [00-Intro]. A fórmula correta é
 
  x_{n+1} = x_n - f(x_n)/f'(x_n).
@@ -27,7 +28,7 @@ Aulas
 |1-2   |  09 Mar  | Introdução.                                                  |[00-Intro], [01-Pseudo], [02-SL]|
 |3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02a-SL], [02-SL] |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|5-6   |  21 Mar  | Sistemas triangulares.                                       |[Quizz01], [02-SL]|
+|5-6   |  21 Mar  | Representação numérica, sistemas triangulares.               |[Quizz01], [Erros], [02-SL], [02b-SL]|
 |7-8   |  23 Mar  | Eliminação de Gauss.                                         |             |
 |9-10  |  28 Mar  | Decomposição LU.                                             |             |
 |11-12 |  30 Mar  | Decomposição LU.                                             |             |
@@ -77,4 +78,6 @@ Aulas
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
 [02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
 [02a-SL]: ../../ancn_slides/02a-SistemasLineares.pdf
+[02b-SL]: ../../ancn_slides/02b-SistemasLineares.pdf
+[Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
