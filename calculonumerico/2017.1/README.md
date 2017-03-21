@@ -72,6 +72,29 @@ Aulas
 |61-62 |  29 Jun  | Prova 4. (Quinta)                                            |             |
 
 
+Exercícios do Prof. Renato Assunção
+-----------------------------------
+ * [Lista 1] [Gabarito 1]
+ * [Lista 2]
+ * [Lista 3] [Gabarito 3]
+ * [Lista 4]
+ * [Lista 5]
+ * [Lista 6]
+ * [Lista 7]
+ * [Lista 8]
+ * [Lista 9]
+
+[Lista 1]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista01.pdf
+[Gabarito 1]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_01.pdf
+[Lista 2]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista02.pdf
+[Lista 3]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista03.pdf
+[Gabarito 3]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_03.pdf
+[Lista 4]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista04.pdf
+[Lista 5]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista05.pdf
+[Lista 6]: http://homepages.dcc.ufmg.br/~assuncao/an/Exerc06.pdf
+[Lista 7]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista07.pdf
+[Lista 8]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista08.pdf
+[Lista 9]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista09.pdf
 
 
 [00-Intro]: ../../ancn_slides/00tz-Intro.pdf
