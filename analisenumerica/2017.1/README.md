@@ -31,7 +31,7 @@ Aulas
 |3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02a-SL], [02-SL]  |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |5-6   |  21 Mar  | Representação numérica                                       |[Quizz01], [02b-SL], [Erros]|
-|7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[02b-SL], [02-SL]      |
+|7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quizz02], [02b-SL], [02-SL]      |
 |9-10  |  28 Mar  | Decomposição LU.                                             |             |
 |11-12 |  30 Mar  | Decomposição LU.                                             |             |
 |13-14 |  04 Abr  | Decomposição de Cholesky.                                    |             |
@@ -106,4 +106,5 @@ Exercícios do Prof. Renato Assunção
 [02b-SL]: ../../ancn_slides/02b-SistemasLineares.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
+[Quizz02]: ../../ancn_slides/gabarito02.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
