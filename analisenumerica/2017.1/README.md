@@ -13,6 +13,7 @@ Turmas: TE1 e TE2
 
 Atualizações importantes!
 -------------------------
+* Mar 22: Notas podem ser visualizadas nesse link [Notas]
 * Mar 22: Slides de divulgação da maratona de programação [Maratona]
 * Mar 22: Corrigido gabarito do Quizz 01
 * Mar 20: Criado Google Group https://groups.google.com/d/forum/an-2017-1. Por favor entre no grupo.
@@ -108,3 +109,4 @@ Exercícios do Prof. Renato Assunção
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
+[Notas]: https://docs.google.com/spreadsheets/d/1s3jH3t-UhV2gQFDU8lJxeavxx06HK-6vq22bMz0Gnp4/edit?usp=sharing
