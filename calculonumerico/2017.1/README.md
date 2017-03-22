@@ -13,6 +13,8 @@ Turmas: TZ
 
 Atualizações importantes!
 -------------------------
+* Mar 22: Slides de divulgação da maratona de programação [Maratona]
+* Mar 22: Corrigido gabarito do Quizz 01
 * Mar 20: Criado Google Group https://groups.google.com/d/forum/cn-2017-1. Por favor entre no grupo.
 * Mar 10: Correção na descrição do método de Newton nos slides [00-Intro]. A fórmula correta é
 
@@ -28,8 +30,8 @@ Aulas
 |1-2   |  09 Mar  | Introdução.                                                  |[00-Intro], [01-Pseudo], [02-SL]|
 |3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02a-SL], [02-SL] |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|5-6   |  21 Mar  | Representação numérica, sistemas triangulares.               |[Quizz01], [Erros], [02-SL], [02b-SL]|
-|7-8   |  23 Mar  | Eliminação de Gauss.                                         |             |
+|5-6   |  21 Mar  | Representação numérica                                       |[Quizz01], [02b-SL], [Erros]|
+|7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[02b-SL], [02-SL]      |
 |9-10  |  28 Mar  | Decomposição LU.                                             |             |
 |11-12 |  30 Mar  | Decomposição LU.                                             |             |
 |13-14 |  04 Abr  | Decomposição de Cholesky.                                    |             |
@@ -104,3 +106,4 @@ Exercícios do Prof. Renato Assunção
 [02b-SL]: ../../ancn_slides/02b-SistemasLineares.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
+[Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
