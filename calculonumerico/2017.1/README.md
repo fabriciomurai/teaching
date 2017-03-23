@@ -31,8 +31,8 @@ Aulas
 |1-2   |  09 Mar  | Introdução.                                                  |[00-Intro], [01-Pseudo], [02-SL]|
 |3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02a-SL], [02-SL] |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|5-6   |  21 Mar  | Representação numérica                                       |[Quizz01], [02b-SL], [Erros]|
-|7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quizz02], [02b-SL], [02-SL]      |
+|5-6   |  21 Mar  | Representação numérica                                       |[Quizz01], [03-SN], [Erros]|
+|7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quizz02], [03-SN], [02-SL]      |
 |9-10  |  28 Mar  | Decomposição LU.                                             |             |
 |11-12 |  30 Mar  | Decomposição LU.                                             |             |
 |13-14 |  04 Abr  | Decomposição de Cholesky.                                    |             |
@@ -103,8 +103,9 @@ Exercícios do Prof. Renato Assunção
 [00-Intro]: ../../ancn_slides/00tz-Intro.pdf
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
 [02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
-[02a-SL]: ../../ancn_slides/02a-SistemasLineares.pdf
-[02b-SL]: ../../ancn_slides/02b-SistemasLineares.pdf
+[02-AL]: ../../ancn_slides/A02-RevisaoAL.pdf
+[03-SN]: ../../ancn_slides/A03-SistemasNumericos.pdf
+[04-SL]: ../../ancn_slides/A04-SistemasLineares.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
