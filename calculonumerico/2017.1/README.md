@@ -110,4 +110,4 @@ Exercícios do Prof. Renato Assunção
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
-[Notas]: https://docs.google.com/spreadsheets/d/1uInW3gfaiIYcnaYzKwmz9TiW3h2kZRR4kUwvoFHcRHE/edit?usp=sharing
+[Notas]: https://drive.google.com/open?id=0B_VgRZWkTtUlZGNISHpNYzJIYlU
