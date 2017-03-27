@@ -33,7 +33,7 @@ Aulas
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |5-6   |  21 Mar  | Representação numérica                                       |[Quizz01], [02b-SL], [Erros]|
 |7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quizz02], [02b-SL], [02-SL]      |
-|9-10  |  28 Mar  | Decomposição LU.                                             |             |
+|9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL]             |
 |11-12 |  30 Mar  | Decomposição LU.                                             |             |
 |13-14 |  04 Abr  | Decomposição de Cholesky.                                    |             |
 |15-16 |  06 Abr  | Uso da decomposição.                                         |             |
@@ -108,5 +108,6 @@ Exercícios do Prof. Renato Assunção
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
+[Quizz03]: ../../ancn_slides/gabarito03.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1s3jH3t-UhV2gQFDU8lJxeavxx06HK-6vq22bMz0Gnp4/edit?usp=sharing
