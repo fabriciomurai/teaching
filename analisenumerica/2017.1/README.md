@@ -29,11 +29,11 @@ Aulas
 |Aula  |  Dia     | Sistemas lineares                                            | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |1-2   |  09 Mar  | Introdução.                                                  |[00-Intro], [01-Pseudo], [02-SL]|
-|3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02-AL], [02-SL]  |
+|3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02-AL], [02-SL] |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |5-6   |  21 Mar  | Representação numérica                                       |[Quizz01], [03-SN], [Erros]|
 |7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quizz02], [03-SN], [02-SL]      |
-|9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL]             |
+|9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL], [Aula05] |
 |11-12 |  30 Mar  | Decomposição LU.                                             |             |
 |13-14 |  04 Abr  | Decomposição de Cholesky.                                    |             |
 |15-16 |  06 Abr  | Uso da decomposição.                                         |             |
@@ -106,6 +106,7 @@ Exercícios do Prof. Renato Assunção
 [02-AL]: ../../ancn_slides/A02-RevisaoAL.pdf
 [03-SN]: ../../ancn_slides/A03-SistemasNumericos.pdf
 [04-SL]: ../../ancn_slides/A04-SistemasLineares.pdf
+[Aula05]: ../../ancn_slides/A05-DecomposicaoLU.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
