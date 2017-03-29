@@ -32,13 +32,13 @@ Aulas
 |3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02-AL], [02-SL]  |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |5-6   |  21 Mar  | Representação numérica                                       |[Quizz01], [03-SN], [Erros]|
-|7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quizz02], [03-SN], [02-SL]      |
+|7-8   |  23 Mar  | Erros, Sistemas triangulares.                                |[Quizz02], [03-SN], [02-SL]      |
 |9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL]             |
-|11-12 |  30 Mar  | Decomposição LU.                                             |             |
-|13-14 |  04 Abr  | Decomposição de Cholesky.                                    |             |
-|15-16 |  06 Abr  | Uso da decomposição.                                         |             |
+|11-12 |  30 Mar  | Decomposição de Cholesky.                                    |[Quizz04], [02-SL]             |
+|13-14 |  04 Abr  | Uso da decomposição.                                         |             |
+|15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |             |
 |17-18 |  08 Abr  | Prova 1. (Sábado às 8:00)                                    |             |
-|19-20 |  11 Abr  | Análise de erro na solução de sistemas.                      |             |
+|19-20 |  11 Abr  | ???                                                          |             |
 
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -110,5 +110,6 @@ Exercícios do Prof. Renato Assunção
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
 [Quizz03]: ../../ancn_slides/gabarito03.pdf
+[Quizz04]: ../../ancn_slides/gabarito04.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1s3jH3t-UhV2gQFDU8lJxeavxx06HK-6vq22bMz0Gnp4/edit?usp=sharing
