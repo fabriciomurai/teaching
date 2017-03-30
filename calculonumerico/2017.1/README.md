@@ -34,7 +34,7 @@ Aulas
 |5-6   |  21 Mar  | Representação numérica                                       |[Quizz01], [03-SN], [Erros]|
 |7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quizz02], [03-SN], [02-SL]      |
 |9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL], [Aula05] |
-|11-12 |  30 Mar  | Decomposição de Cholesky.                                    |[Quizz04], [02-SL]             |
+|11-12 |  30 Mar  | Decomposição LU, Decomposição de Cholesky.                   |[Quizz04], [02-SL], [Aula06] |
 |13-14 |  04 Abr  | Uso da decomposição.                                         |             |
 |15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |             |
 |17-18 |  08 Abr  | Prova 1. (Sábado às 8:00)                                    |             |
@@ -107,6 +107,7 @@ Exercícios do Prof. Renato Assunção
 [03-SN]: ../../ancn_slides/A03-SistemasNumericos.pdf
 [04-SL]: ../../ancn_slides/A04-SistemasLineares.pdf
 [Aula05]: ../../ancn_slides/A05-DecomposicaoLU.pdf
+[Aula06]: ../../ancn_slides/A06-Cholesky.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
