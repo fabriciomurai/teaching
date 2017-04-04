@@ -13,6 +13,7 @@ Turmas: TE1 e TE2
 
 Atualizações importantes!
 -------------------------
+* Abr 04: Lista de fórmulas a ser distribuída na prova [Formulario]
 * Mar 22: Notas podem ser visualizadas nesse link [Notas]
 * Mar 22: Slides de divulgação da maratona de programação [Maratona]
 * Mar 22: Corrigido gabarito do Quizz 01
@@ -116,3 +117,4 @@ Exercícios do Prof. Renato Assunção
 [Quizz05]: ../../ancn_slides/gabarito05.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1s3jH3t-UhV2gQFDU8lJxeavxx06HK-6vq22bMz0Gnp4/edit?usp=sharing
+[Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
