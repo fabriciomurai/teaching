@@ -13,6 +13,9 @@ Turmas: TZ
 
 Atualizações importantes!
 -------------------------
+* Prova neste sábado (08/Abr de 12:00 às 14:00)
+  Local:
+  - Turma TZ: Sala 1019
 * Abr 04: Lista de fórmulas a ser distribuída na prova [Formulario]
 * Mar 22: Notas podem ser visualizadas nesse link [Notas]
 * Mar 22: Slides de divulgação da maratona de programação [Maratona]
@@ -36,7 +39,7 @@ Aulas
 |7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quizz02], [03-SN], [02-SL]      |
 |9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL], [Aula05] |
 |11-12 |  30 Mar  | Decomposição LU, Decomposição de Cholesky.                   |[Quizz04], [02-SL], [Aula06] |
-|13-14 |  04 Abr  | Uso da decomposição.                                         |[Quizz05], [02-SL]             |
+|13-14 |  04 Abr  | Uso da decomposição.                                         |[Quizz05], [02-SL], [Aula07] |
 |15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |             |
 |17-18 |  08 Abr  | Prova 1. (Sábado às 8:00)                                    |             |
 |19-20 |  11 Abr  | ???                                                          |             |
@@ -109,6 +112,7 @@ Exercícios do Prof. Renato Assunção
 [04-SL]: ../../ancn_slides/A04-SistemasLineares.pdf
 [Aula05]: ../../ancn_slides/A05-DecomposicaoLU.pdf
 [Aula06]: ../../ancn_slides/A06-Cholesky.pdf
+[Aula07]: ../../ancn_slides/A07-UsoDecomposicao.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
