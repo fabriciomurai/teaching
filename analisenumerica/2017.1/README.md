@@ -1,4 +1,4 @@
-DCC033 - Analise Numérica - 2017.1
+﻿DCC033 - Analise Numérica - 2017.1
 ==================================
 
 Professores: Fabricio Murai e Renato Assunção
@@ -42,7 +42,7 @@ Aulas
 |9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL], [Aula05] |
 |11-12 |  30 Mar  | Decomposição LU, Decomposição de Cholesky.                   |[Quizz04], [02-SL], [Aula06] |
 |13-14 |  04 Abr  | Uso da decomposição.                                         |[Quizz05], [02-SL], [Aula07] |
-|15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |             |
+|15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |[Quizz06],             |
 |17-18 |  08 Abr  | Prova 1. (Sábado às 8:00)                                    |             |
 |19-20 |  11 Abr  | ???                                                          |             |
 
@@ -121,6 +121,7 @@ Exercícios do Prof. Renato Assunção
 [Quizz03]: ../../ancn_slides/gabarito03.pdf
 [Quizz04]: ../../ancn_slides/gabarito04.pdf
 [Quizz05]: ../../ancn_slides/gabarito05.pdf
+[Quizz06]: ../../ancn_slides/gabarito06.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1s3jH3t-UhV2gQFDU8lJxeavxx06HK-6vq22bMz0Gnp4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
