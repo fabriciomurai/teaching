@@ -40,7 +40,7 @@ Aulas
 |9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL], [Aula05] |
 |11-12 |  30 Mar  | Decomposição LU, Decomposição de Cholesky.                   |[Quizz04], [02-SL], [Aula06] |
 |13-14 |  04 Abr  | Uso da decomposição.                                         |[Quizz05], [02-SL], [Aula07] |
-|15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |[Quizz06],             |
+|15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |[Quizz06], [02-SL], [Aula08] |
 |17-18 |  08 Abr  | Prova 1. (Sábado às 8:00)                                    |             |
 |19-20 |  11 Abr  | ???                                                          |             |
 
@@ -113,6 +113,7 @@ Exercícios do Prof. Renato Assunção
 [Aula05]: ../../ancn_slides/A05-DecomposicaoLU.pdf
 [Aula06]: ../../ancn_slides/A06-Cholesky.pdf
 [Aula07]: ../../ancn_slides/A07-UsoDecomposicao.pdf
+[Aula08]: ../../ancn_slides/A08-Condicionamento.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
