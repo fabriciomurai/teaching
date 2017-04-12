@@ -16,6 +16,7 @@ Atualizações importantes!
 * Prova neste sábado (08/Abr de 12:00 às 14:00)
   Local:
   - Turma TZ: Sala 1019
+* Abr 12: Notas da P1 atualizadas devido a mudança no critério de correção das questões 8 e 10
 * Abr 11: Notas da P1 [P1-Notas] [P1-Stats]
 * Abr 04: Lista de fórmulas a ser distribuída na prova [Formulario]
 * Mar 22: Notas podem ser visualizadas nesse link [Notas]

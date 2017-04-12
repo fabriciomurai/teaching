@@ -18,6 +18,7 @@ Atualizações importantes!
   - Turma TE1: Sala 1016
   - Turma TE2: Sala 1015
   - Turma TF: Sala 1015
+* Abr 12: Notas da P1 atualizadas devido a mudança no critério de correção das questões 8 e 10
 * Abr 11: Notas da P1 [P1-Notas] [P1-Stats]
 * Abr 04: Lista de fórmulas a ser distribuída na prova [Formulario]
 * Mar 22: Notas podem ser visualizadas nesse link [Notas]
