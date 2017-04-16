@@ -50,7 +50,7 @@ Aulas
 
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|21-22 |  18 Abr  | Polinômios interpoladores. Polinômios de Lagrange.           |             |
+|21-22 |  18 Abr  | Polinômios interpoladores. Polinômios de Lagrange.           |[Quizz07]             |
 |23-24 |  20 Abr  | Polinômios de Newton.                                        |             |
 |      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |25-26 |  27 Abr  | Polinômios de Gregory-Newton.                                |             |
@@ -125,6 +125,7 @@ Exercícios do Prof. Renato Assunção
 [Quizz04]: ../../ancn_slides/gabarito04.pdf
 [Quizz05]: ../../ancn_slides/gabarito05.pdf
 [Quizz06]: ../../ancn_slides/gabarito06.pdf
+[Quizz07]: ../../ancn_slides/gabarito07.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1s3jH3t-UhV2gQFDU8lJxeavxx06HK-6vq22bMz0Gnp4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
