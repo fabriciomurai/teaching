@@ -16,6 +16,8 @@ Atualizações importantes!
 * Prova neste sábado (08/Abr de 12:00 às 14:00)
   Local:
   - Turma TZ: Sala 1019
+* Abr 12: Notas da P1 atualizadas devido a mudança no critério de correção das questões 8 e 10
+* Abr 11: Notas da P1 [P1-Notas] [P1-Stats]
 * Abr 04: Lista de fórmulas a ser distribuída na prova [Formulario]
 * Mar 22: Notas podem ser visualizadas nesse link [Notas]
 * Mar 22: Slides de divulgação da maratona de programação [Maratona]
@@ -40,9 +42,9 @@ Aulas
 |9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL], [Aula05] |
 |11-12 |  30 Mar  | Decomposição LU, Decomposição de Cholesky.                   |[Quizz04], [02-SL], [Aula06] |
 |13-14 |  04 Abr  | Uso da decomposição.                                         |[Quizz05], [02-SL], [Aula07] |
-|15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |[Quizz06],             |
-|17-18 |  08 Abr  | Prova 1. (Sábado às 8:00)                                    |             |
-|19-20 |  11 Abr  | ???                                                          |             |
+|15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |[Quizz06], [02-SL], [Aula08] |
+|17-18 |  08 Abr  | Prova 1. (Sábado às 12:00)                                    |[P1-Stats], [P1-Notas] |
+|19-20 |  11 Abr  | Polinômios interpoladores. Polinômios de Lagrange.           |[Aula09], [03-Interpolacao] |
 
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -113,6 +115,7 @@ Exercícios do Prof. Renato Assunção
 [Aula05]: ../../ancn_slides/A05-DecomposicaoLU.pdf
 [Aula06]: ../../ancn_slides/A06-Cholesky.pdf
 [Aula07]: ../../ancn_slides/A07-UsoDecomposicao.pdf
+[Aula08]: ../../ancn_slides/A08-Condicionamento.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
@@ -123,3 +126,7 @@ Exercícios do Prof. Renato Assunção
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://drive.google.com/open?id=0B_VgRZWkTtUlZGNISHpNYzJIYlU
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
+[P1-Stats]: ../../ancn_slides/p1_stats.pdf
+[P1-Notas]: ../../ancn_slides/p1_notas_cn.pdf
+[Aula09]: ../../ancn_slides/A09-Interpolacao.pdf
+[03-Interpolacao]: ../../ancn_slides/03-InterpolacaoPolinomial.pdf
