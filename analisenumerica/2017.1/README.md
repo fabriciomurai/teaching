@@ -50,12 +50,12 @@ Aulas
 
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|21-22 |  18 Abr  | Polinômios interpoladores. Polinômios de Lagrange.           |[Quizz07]             |
-|23-24 |  20 Abr  | Polinômios de Newton.                                        |             |
-|      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|25-26 |  27 Abr  | Polinômios de Gregory-Newton.                                |             |
-|27-28 |  02 Mai  | Escolha de pontos.                                           |             |
-|29-30 |  04 Mai  | Erro de truncamento.                                         |             |
+|21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
+|      |  20 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
+|23-24 |  25 Abr  | Polinômios de Gregory-Newton.                                |             |
+|25-26 |  27 Abr  | Escolha de pontos.                                           |             |
+|27-28 |  02 Mai  | Erro de truncamento.                                         |             |
+|29-30 |  04 Mai  | ???                                                          |             |
 |31-32 |  06 Mai  | Prova 2. (Sábado às 08:00)                                   |             |
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
@@ -118,6 +118,8 @@ Exercícios do Prof. Renato Assunção
 [Aula06]: ../../ancn_slides/A06-Cholesky.pdf
 [Aula07]: ../../ancn_slides/A07-UsoDecomposicao.pdf
 [Aula08]: ../../ancn_slides/A08-Condicionamento.pdf
+[Aula09]: ../../ancn_slides/A09-Interpolacao.pdf
+[Aula10]: ../../ancn_slides/A10-PolinomioNewton.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
