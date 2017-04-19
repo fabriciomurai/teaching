@@ -51,8 +51,8 @@ Aulas
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
-|      |  20 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|23-24 |  25 Abr  | Polinômios de Gregory-Newton.                                |[Aula11]             |
+|23-24 |  20 Abr  | Polinômios de Gregory-Newton.                                |[Aula11]             |
+|      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |25-26 |  27 Abr  | Escolha de pontos.                                           |             |
 |27-28 |  02 Mai  | Erro de truncamento.                                         |             |
 |29-30 |  04 Mai  | ???                                                          |             |
