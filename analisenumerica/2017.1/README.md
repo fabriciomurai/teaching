@@ -52,7 +52,7 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
 |      |  20 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|23-24 |  25 Abr  | Polinômios de Gregory-Newton.                                |             |
+|23-24 |  25 Abr  | Polinômios de Gregory-Newton.                                |[Aula11]             |
 |25-26 |  27 Abr  | Escolha de pontos.                                           |             |
 |27-28 |  02 Mai  | Erro de truncamento.                                         |             |
 |29-30 |  04 Mai  | ???                                                          |             |
@@ -120,6 +120,7 @@ Exercícios do Prof. Renato Assunção
 [Aula08]: ../../ancn_slides/A08-Condicionamento.pdf
 [Aula09]: ../../ancn_slides/A09-Interpolacao.pdf
 [Aula10]: ../../ancn_slides/A10-PolinomioNewton.pdf
+[Aula11]: ../../ancn_slides/A11-GregoryNewton.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
