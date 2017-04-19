@@ -49,7 +49,7 @@ Aulas
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
-|23-24 |  20 Abr  | Polinômios de Gregory-Newton.                                |[Aula11]             |
+|23-24 |  20 Abr  | Polinômios de Gregory-Newton.                                |[Quizz08], [Aula11] |
 |      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |25-26 |  27 Abr  | Escolha de pontos.                                           |             |
 |27-28 |  02 Mai  | Erro de truncamento.                                         |             |
@@ -127,6 +127,7 @@ Exercícios do Prof. Renato Assunção
 [Quizz05]: ../../ancn_slides/gabarito05.pdf
 [Quizz06]: ../../ancn_slides/gabarito06.pdf
 [Quizz07]: ../../ancn_slides/gabarito07.pdf
+[Quizz08]: ../../ancn_slides/gabarito08.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://drive.google.com/open?id=0B_VgRZWkTtUlZGNISHpNYzJIYlU
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
