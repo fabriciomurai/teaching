@@ -3,19 +3,22 @@
 
 Professores: Fabricio Murai
 
-Monitores: Não definido
-
-Local: ICEx, Sala 1023
+Local da aula: ICEx, Sala 1023
 
 Horário: Ter/Qui 17:00 - 18:40
 
 Turmas: TZ
 
+Monitor: Rafael Bruno Siqueira 'at' gmail 'dot' com
+
+Local de atendimento: ICEx, Sala 1015
+
+Hoário de atendimento: Sexta 11:10 -- 12:50
+
+
 Atualizações importantes!
 -------------------------
-* Prova neste sábado (08/Abr de 12:00 às 14:00)
-  Local:
-  - Turma TZ: Sala 1019
+* Abr 22: Notas dos quizzes atualizadas
 * Abr 12: Notas da P1 atualizadas devido a mudança no critério de correção das questões 8 e 10
 * Abr 11: Notas da P1 [P1-Notas] [P1-Stats]
 * Abr 04: Lista de fórmulas a ser distribuída na prova [Formulario]
@@ -49,36 +52,35 @@ Aulas
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
-|23-24 |  20 Abr  | Polinômios de Gregory-Newton.                                |[Quizz08], [Aula11] |
+|23-24 |  20 Abr  | Polinômios de Gregory-Newton e escolha de pontos.            |[Quizz08], [Aula11] |
 |      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|25-26 |  27 Abr  | Escolha de pontos.                                           |             |
-|27-28 |  02 Mai  | Erro de truncamento.                                         |             |
-|29-30 |  04 Mai  | ???                                                          |             |
-|31-32 |  06 Mai  | Prova 2. (Sábado às 08:00)                                   |             |
+|25-26 |  27 Abr  | Erros de truncamento.                                        |             |
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|33-34 |  09 Mai  | Regressão linear simples e múltipla                          |             |
-|35-36 |  11 Mai  | Qualidade do ajuste.                                         |             |
-|37-38 |  16 Mai  | Decomposição QR                                              |             |
+|27-28 |  02 Mai  | Regressão linear simples e múltipla                          |             |
+|29-30 |  04 Mai  | Qualidade do ajuste                                          |             |
+|31-32 |  06 Mai  | Prova 2. (Sábado às ???)                                     |             |
+|33-34 |  09 Mai  | Decomposição QR                                              |             |
+|35-36 |  11 Mai  | Fórmulas de Newton-Cotes.                                    |             |
 
 |aula  |  dia     | Integração numérica                                          | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|39-40 |  18 Mai  | Fórmulas de Newton-Cotes.                                    |             |
-|41-42 |  23 Mai  | Erro de integração de Newton-Cotes.                          |             |
-|43-44 |  25 Mai  | Quadratura de Gauss-Legendre.                                |             |
-|45-46 |  30 Mai  | Erro de integração de Gauss-Legendre. Integração iterativa.  |             |
+|37-38 |  16 Mai  | Erro de integração de Newton-Cotes.                          |             |
+|39-40 |  18 Mai  | Quadratura de Gauss-Legendre.                                |             |
+|41-42 |  23 Mai  | Erro de integração de Gauss-Legendre. Integração iterativa.  |             |
+|43-44 |  25 Mai  | Prova 3. (Quinta)                                            |             |
 
 |Aula  |  Dia     | Raízes de equações                                           | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|47-48 |  01 Jun  | Isolamento de raízes e Método da bisseção.                   |             |
-|49-50 |  03 Jun  | Prova 3. (Sábado às 08:00)                                   |             |
-|51-52 |  06 Jun  | Métodos baseados em tangente: Newton                         |             |
-|53-54 |  08 Jun  | Otimização de funções com uma variável                       |             |
-|55-56 |  20 Jun  | Caso multivariado                                            |             |
-|57-58 |  22 Jun  | Exemplos                                                     |             |
-|59-60 |  27 Jun  | Comparação dos métodos.                                      |             |
-|61-62 |  29 Jun  | Prova 4. (Quinta)                                            |             |
+|45-46 |  30 Mai  | Isolamento de raízes e Método da bisseção.                   |             |
+|47-48 |  01 Jun  | Métodos baseados em tangente: Newton                         |             |
+|49-50 |  06 Jun  | Otimização de funções com uma variável                       |             |
+|51-52 |  08 Jun  | Caso multivariado                                            |             |
+|53-54 |  20 Jun  | Exemplos                                                     |             |
+|55-56 |  22 Jun  | Comparação dos métodos.                                      |             |
+|57-58 |  27 Jun  | Prova 4. (Terça)                                             |             |
+|59-60 |  29 Jun  | Prova Especial. (Quinta)                                     |             |
 
 
 Exercícios do Prof. Renato Assunção
@@ -129,7 +131,7 @@ Exercícios do Prof. Renato Assunção
 [Quizz07]: ../../ancn_slides/gabarito07.pdf
 [Quizz08]: ../../ancn_slides/gabarito08.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
-[Notas]: https://drive.google.com/open?id=0B_VgRZWkTtUlZGNISHpNYzJIYlU
+[Notas]: https://docs.google.com/spreadsheets/d/1Jj4B5pZUjqkPsDmNNvjAiSXKOOzk_EtbKYVpVCbxLX4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
 [P1-Stats]: ../../ancn_slides/p1_stats.pdf
 [P1-Notas]: ../../ancn_slides/p1_notas_cn.pdf
