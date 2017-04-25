@@ -3,21 +3,21 @@
 
 Professores: Fabricio Murai e Renato Assunção
 
-Monitores: Não definido
+Turmas: TE1, TE2 e TF
 
-Local: ICEx, Auditório I
+Local da aula: ICEx, Auditório I
 
 Horário: Ter 19:00 - 20:40 / Qui 20:55 - 22:35
 
-Turmas: TE1, TE2 e TF
+Monitor: Marcio R A S F 'at' gmail 'dot' com
+
+Local de atendimento: ICEX, Sala 1016
+
+Horário de atendimento: Terça 17:00 -- 18:40
+
 
 Atualizações importantes!
 -------------------------
-* Prova neste sábado (08/Abr de 12:00 às 14:00)
-  Local (*confira sua turma*):
-  - Turma TE1: Sala 1016
-  - Turma TE2: Sala 1015
-  - Turma TF: Sala 1015
 * Abr 12: Notas da P1 atualizadas devido a mudança no critério de correção das questões 8 e 10
 * Abr 11: Notas da P1 [P1-Notas] [P1-Stats]
 * Abr 04: Lista de fórmulas a ser distribuída na prova [Formulario]
@@ -51,10 +51,10 @@ Aulas
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
-|23-24 |  20 Abr  | Polinômios de Gregory-Newton.                                |[Quizz08], [Aula11] |
-|      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|25-26 |  27 Abr  | Escolha de pontos.                                           |             |
-|27-28 |  02 Mai  | Erro de truncamento.                                         |             |
+|23-24 |  20 Abr  | Polinômios de Gregory-Newton e escolha de pontos             |[Quizz08], [Aula11] |
+|      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |[Quizz09]            |
+|25-26 |  27 Abr  | Erro de truncamento.                                         |             |
+|27-28 |  02 Mai  | ???                                                          |             |
 |29-30 |  04 Mai  | ???                                                          |             |
 |31-32 |  06 Mai  | Prova 2. (Sábado às 08:00)                                   |             |
 
@@ -130,6 +130,7 @@ Exercícios do Prof. Renato Assunção
 [Quizz06]: ../../ancn_slides/gabarito06.pdf
 [Quizz07]: ../../ancn_slides/gabarito07.pdf
 [Quizz08]: ../../ancn_slides/gabarito08.pdf
+[Quizz09]: ../../ancn_slides/gabarito09.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1s3jH3t-UhV2gQFDU8lJxeavxx06HK-6vq22bMz0Gnp4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
