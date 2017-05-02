@@ -47,10 +47,10 @@ Aulas
 |13-14 |  04 Abr  | Uso da decomposição.                                         |[Quizz05], [02-SL], [Aula07] |
 |15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |[Quizz06], [02-SL], [Aula08] |
 |17-18 |  08 Abr  | Prova 1. (Sábado às 12:00)                                    |[P1-Stats], [P1-Notas] |
-|19-20 |  11 Abr  | Polinômios interpoladores. Polinômios de Lagrange.           |[Aula09], [03-Interpolacao] |
 
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
+|19-20 |  11 Abr  | Polinômios interpoladores. Polinômios de Lagrange.           |[Aula09], [03-Interpolacao] |
 |21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
 |23-24 |  20 Abr  | Polinômios de Gregory-Newton e escolha de pontos.            |[Quizz08], [Aula11] |
 |      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
