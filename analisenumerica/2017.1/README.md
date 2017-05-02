@@ -52,10 +52,10 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
 |23-24 |  20 Abr  | Polinômios de Gregory-Newton e escolha de pontos             |[Quizz08], [Aula11] |
-|      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |[Quizz09]            |
-|25-26 |  27 Abr  | Erro de truncamento.                                         |             |
-|27-28 |  02 Mai  | ???                                                          |             |
-|29-30 |  04 Mai  | ???                                                          |             |
+|      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |           |
+|25-26 |  27 Abr  | Erro de truncamento.                                         |[Quizz09],[Aula12], [03-Interpolacao] |
+|27-28 |  02 Mai  | Aula de dúvidas                                              |             |
+|29-30 |  04 Mai  | Não haverá aula.                                             |             |
 |31-32 |  06 Mai  | Prova 2. (Sábado às 08:00)                                   |             |
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
@@ -121,6 +121,7 @@ Exercícios do Prof. Renato Assunção
 [Aula09]: ../../ancn_slides/A09-Interpolacao.pdf
 [Aula10]: ../../ancn_slides/A10-PolinomioNewton.pdf
 [Aula11]: ../../ancn_slides/A11-GregoryNewton.pdf
+[Aula12]: ../../ancn_slides/A12-ErroInterpolacao.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf

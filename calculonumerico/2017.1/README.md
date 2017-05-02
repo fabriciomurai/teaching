@@ -53,8 +53,12 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
 |23-24 |  20 Abr  | Polinômios de Gregory-Newton e escolha de pontos.            |[Quizz08], [Aula11] |
-|      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |[Quizz09]             |
-|25-26 |  27 Abr  | Erros de truncamento.                                        |             |
+|      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
+|25-26 |  27 Abr  | Erro de truncamento.                                         |[Quizz09], [Aula12], [03-Interpolacao] |
+
+|Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
+|------|----------|--------------------------------------------------------------|-------------|
+|27-28 |  02 Mai  | Regressão linear simples e múltipla                          |[Aula13], [Ajuste]|
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -111,6 +115,7 @@ Exercícios do Prof. Renato Assunção
 [00-Intro]: ../../ancn_slides/00tz-Intro.pdf
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
 [02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
+[Ajuste]: ../../ancn_slides/04-AjusteCurvas.pdf
 [02-AL]: ../../ancn_slides/A02-RevisaoAL.pdf
 [03-SN]: ../../ancn_slides/A03-SistemasNumericos.pdf
 [04-SL]: ../../ancn_slides/A04-SistemasLineares.pdf
@@ -121,6 +126,8 @@ Exercícios do Prof. Renato Assunção
 [Aula09]: ../../ancn_slides/A09-Interpolacao.pdf
 [Aula10]: ../../ancn_slides/A10-PolinomioNewton.pdf
 [Aula11]: ../../ancn_slides/A11-GregoryNewton.pdf
+[Aula12]: ../../ancn_slides/A12-ErroInterpolacao.pdf
+[Aula13]: ../../ancn_slides/A13-RegressaoLinear.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
