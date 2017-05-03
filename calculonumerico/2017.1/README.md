@@ -18,6 +18,7 @@ Hoário de atendimento: Sexta 11:10 -- 12:50
 
 Atualizações importantes!
 -------------------------
+* Mai 3: Quizz teórico disponível [QuizzTeorico]
 * Abr 22: Notas dos quizzes atualizadas
 * Abr 12: Notas da P1 atualizadas devido a mudança no critério de correção das questões 8 e 10
 * Abr 11: Notas da P1 [P1-Notas] [P1-Stats]
