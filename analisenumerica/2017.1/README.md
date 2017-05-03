@@ -18,6 +18,7 @@ Horário de atendimento: Terça 17:00 -- 18:40
 
 Atualizações importantes!
 -------------------------
+* Mai 3: Quizz teórico disponível [QuizzTeorico]
 * Abr 12: Notas da P1 atualizadas devido a mudança no critério de correção das questões 8 e 10
 * Abr 11: Notas da P1 [P1-Notas] [P1-Stats]
 * Abr 04: Lista de fórmulas a ser distribuída na prova [Formulario]
@@ -56,7 +57,7 @@ Aulas
 |25-26 |  27 Abr  | Erro de truncamento.                                         |[Quizz09], [Aula12], [03-Interpolacao] |
 |27-28 |  02 Mai  | Aula de dúvidas                                              |             |
 |29-30 |  04 Mai  | Não haverá aula.                                             |             |
-|31-32 |  06 Mai  | Prova 2. (Sábado às 08:00)                                   |             |
+|31-32 |  06 Mai  | Prova 2. (Sala 1019, Sábado às 08:00)                                   |[QuizzTeorico]             |
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -123,6 +124,7 @@ Exercícios do Prof. Renato Assunção
 [Aula11]: ../../ancn_slides/A11-GregoryNewton.pdf
 [Aula12]: ../../ancn_slides/A12-ErroInterpolacao.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
+[QuizzTeorico]: ../../ancn_slides/quizz-theory.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
 [Quizz03]: ../../ancn_slides/gabarito03.pdf

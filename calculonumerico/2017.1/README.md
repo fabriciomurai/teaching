@@ -64,7 +64,7 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |27-28 |  02 Mai  | Regressão linear simples e múltipla                          |             |
 |29-30 |  04 Mai  | Qualidade do ajuste                                          |             |
-|31-32 |  06 Mai  | Prova 2. (Sábado às ???)                                     |             |
+|31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                                     |[QuizzTeorico]             |
 |33-34 |  09 Mai  | Decomposição QR                                              |             |
 |35-36 |  11 Mai  | Fórmulas de Newton-Cotes.                                    |             |
 
@@ -129,6 +129,7 @@ Exercícios do Prof. Renato Assunção
 [Aula12]: ../../ancn_slides/A12-ErroInterpolacao.pdf
 [Aula13]: ../../ancn_slides/A13-RegressaoLinear.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
+[QuizzTeorico]: ../../ancn_slides/quizz-theory.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
 [Quizz03]: ../../ancn_slides/gabarito03.pdf
