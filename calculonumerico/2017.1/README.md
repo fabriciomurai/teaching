@@ -63,10 +63,10 @@ Aulas
 |29-30 |  04 Mai  | Qualidade do ajuste                                          |[Quizz10], [Aula14], [Ajuste] |
 |31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                        |[QuizzTeorico] |
 |33-34 |  09 Mai  | Decomposição QR                                              |             |
-|35-36 |  11 Mai  | Fórmulas de Newton-Cotes.                                    |             |
 
 |aula  |  dia     | Integração numérica                                          | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
+|35-36 |  11 Mai  | Fórmulas de Newton-Cotes.                                    |             |
 |37-38 |  16 Mai  | Erro de integração de Newton-Cotes.                          |             |
 |39-40 |  18 Mai  | Quadratura de Gauss-Legendre.                                |             |
 |41-42 |  23 Mai  | Erro de integração de Gauss-Legendre. Integração iterativa.  |             |

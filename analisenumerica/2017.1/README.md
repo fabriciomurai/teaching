@@ -57,7 +57,7 @@ Aulas
 |25-26 |  27 Abr  | Erro de truncamento.                                         |[Quizz09], [Aula12], [03-Interpolacao] |
 |27-28 |  02 Mai  | Aula de dúvidas                                              |             |
 |29-30 |  04 Mai  | Não haverá aula.                                             |             |
-|31-32 |  06 Mai  | Prova 2. (Sala 1019, Sábado às 08:00)                                   |[QuizzTeorico]             |
+|31-32 |  06 Mai  | Prova 2. (Sala 1019, Sábado às 08:00)                        |[QuizzTeorico], [GabaritoTeorico] |
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -125,6 +125,7 @@ Exercícios do Prof. Renato Assunção
 [Aula12]: ../../ancn_slides/A12-ErroInterpolacao.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [QuizzTeorico]: ../../ancn_slides/quizz-theory.pdf
+[GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
 [Quizz03]: ../../ancn_slides/gabarito03.pdf
