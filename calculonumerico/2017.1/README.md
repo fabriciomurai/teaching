@@ -53,19 +53,15 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |19-20 |  11 Abr  | Polinômios interpoladores. Polinômios de Lagrange.           |[Aula09], [03-Interpolacao] |
 |21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
-|23-24 |  20 Abr  | Polinômios de Gregory-Newton e escolha de pontos.            |[Quizz08], [Aula11] |
+|23-24 |  20 Abr  | Polinômios de Gregory-Newton e escolha de pontos.            |[Quizz08], [03-Interpolacao], [Aula11] |
 |      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
 |25-26 |  27 Abr  | Erro de truncamento.                                         |[Quizz09], [Aula12], [03-Interpolacao] |
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |27-28 |  02 Mai  | Regressão linear simples e múltipla                          |[Aula13], [Ajuste]|
-
-|Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
-|------|----------|--------------------------------------------------------------|-------------|
-|27-28 |  02 Mai  | Regressão linear simples e múltipla                          |             |
-|29-30 |  04 Mai  | Qualidade do ajuste                                          |             |
-|31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                                     |[QuizzTeorico]             |
+|29-30 |  04 Mai  | Qualidade do ajuste                                          |[Quizz10], [Aula14], [Ajuste] |
+|31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                        |[QuizzTeorico] |
 |33-34 |  09 Mai  | Decomposição QR                                              |             |
 |35-36 |  11 Mai  | Fórmulas de Newton-Cotes.                                    |             |
 
@@ -129,6 +125,7 @@ Exercícios do Prof. Renato Assunção
 [Aula11]: ../../ancn_slides/A11-GregoryNewton.pdf
 [Aula12]: ../../ancn_slides/A12-ErroInterpolacao.pdf
 [Aula13]: ../../ancn_slides/A13-RegressaoLinear.pdf
+[Aula14]: ../../ancn_slides/A14-QualidadeAjuste.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [QuizzTeorico]: ../../ancn_slides/quizz-theory.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
@@ -140,6 +137,7 @@ Exercícios do Prof. Renato Assunção
 [Quizz07]: ../../ancn_slides/gabarito07.pdf
 [Quizz08]: ../../ancn_slides/gabarito08.pdf
 [Quizz09]: ../../ancn_slides/gabarito09.pdf
+[Quizz10]: ../../ancn_slides/gabarito10.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1Jj4B5pZUjqkPsDmNNvjAiSXKOOzk_EtbKYVpVCbxLX4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
