@@ -61,7 +61,7 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |27-28 |  02 Mai  | Regressão linear simples e múltipla                          |[Aula13], [Ajuste]|
 |29-30 |  04 Mai  | Qualidade do ajuste                                          |[Quizz10], [Aula14], [Ajuste] |
-|31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                        |[QuizzTeorico] |
+|31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                        |[QuizzTeorico], [GabaritoTeorico] |
 |33-34 |  09 Mai  | Decomposição QR                                              |             |
 
 |aula  |  dia     | Integração numérica                                          | Link Slides |
