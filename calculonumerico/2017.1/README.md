@@ -128,6 +128,7 @@ Exercícios do Prof. Renato Assunção
 [Aula14]: ../../ancn_slides/A14-QualidadeAjuste.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [QuizzTeorico]: ../../ancn_slides/quizz-theory.pdf
+[GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
 [Quizz02]: ../../ancn_slides/gabarito02.pdf
 [Quizz03]: ../../ancn_slides/gabarito03.pdf
