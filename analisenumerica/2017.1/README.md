@@ -57,7 +57,7 @@ Aulas
 |25-26 |  27 Abr  | Erro de truncamento.                                         |[Quizz09], [Aula12], [03-Interpolacao] |
 |27-28 |  02 Mai  | Aula de dúvidas                                              |             |
 |29-30 |  04 Mai  | Não haverá aula.                                             |             |
-|31-32 |  06 Mai  | Prova 2. (Sala 1019, Sábado às 08:00)                        |[QuizzTeorico], [GabaritoTeorico] |
+|31-32 |  06 Mai  | Prova 2. (Sala 1019, Sábado às 08:00)                        |[P2-Stats], [QuizzTeorico], [GabaritoTeorico] |
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -141,6 +141,7 @@ Exercícios do Prof. Renato Assunção
 
 
 [P1-Stats]: ../../ancn_slides/p1_stats.pdf
+[P2-Stats]: ../../ancn_slides/p2_stats.pdf
 [P1-Notas]: ../../ancn_slides/p1_notas_an.pdf
 [Aula09]: ../../ancn_slides/A09-Interpolacao.pdf
 [03-Interpolacao]: ../../ancn_slides/03-InterpolacaoPolinomial.pdf

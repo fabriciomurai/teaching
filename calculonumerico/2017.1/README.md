@@ -61,8 +61,8 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |27-28 |  02 Mai  | Regressão linear simples e múltipla                          |[Aula13], [Ajuste]|
 |29-30 |  04 Mai  | Qualidade do ajuste                                          |[Quizz10], [Aula14], [Ajuste] |
-|31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                        |[QuizzTeorico], [GabaritoTeorico] |
-|33-34 |  09 Mai  | Decomposição QR                                              |             |
+|31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                        |[P2-Stats], [QuizzTeorico], [GabaritoTeorico] |
+|33-34 |  09 Mai  | Decomposição QR                                              |[Quizz11], [Aula15] |
 
 |aula  |  dia     | Integração numérica                                          | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -126,6 +126,7 @@ Exercícios do Prof. Renato Assunção
 [Aula12]: ../../ancn_slides/A12-ErroInterpolacao.pdf
 [Aula13]: ../../ancn_slides/A13-RegressaoLinear.pdf
 [Aula14]: ../../ancn_slides/A14-QualidadeAjuste.pdf
+[Aula15]: ../../ancn_slides/A15-QR.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [QuizzTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
@@ -139,10 +140,12 @@ Exercícios do Prof. Renato Assunção
 [Quizz08]: ../../ancn_slides/gabarito08.pdf
 [Quizz09]: ../../ancn_slides/gabarito09.pdf
 [Quizz10]: ../../ancn_slides/gabarito10.pdf
+[Quizz11]: ../../ancn_slides/gabarito11.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1Jj4B5pZUjqkPsDmNNvjAiSXKOOzk_EtbKYVpVCbxLX4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
 [P1-Stats]: ../../ancn_slides/p1_stats.pdf
 [P1-Notas]: ../../ancn_slides/p1_notas_cn.pdf
+[P2-Stats]: ../../ancn_slides/p2_stats.pdf
 [Aula09]: ../../ancn_slides/A09-Interpolacao.pdf
 [03-Interpolacao]: ../../ancn_slides/03-InterpolacaoPolinomial.pdf
