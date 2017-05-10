@@ -140,7 +140,7 @@ Exercícios do Prof. Renato Assunção
 [Notas]: https://docs.google.com/spreadsheets/d/1s3jH3t-UhV2gQFDU8lJxeavxx06HK-6vq22bMz0Gnp4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
 
-[P2-Notas]: https://docs.google.com/spreadsheets/d/1Ez96PDTBqb5VOmPTPI0xU1Uk9mDEuM3udqjNZFPnU5k/edit?usp=sharing
+[P2-Notas]: https://drive.google.com/open?id=1ZbdjVT78HYdY5fVuoqiAxi1AelN-ngjD53r5_XgiG2s
 [P1-Stats]: ../../ancn_slides/p1_stats.pdf
 [P2-Stats]: ../../ancn_slides/p2_stats.pdf
 [P1-Notas]: ../../ancn_slides/p1_notas_an.pdf
