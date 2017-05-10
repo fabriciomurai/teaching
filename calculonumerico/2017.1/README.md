@@ -18,6 +18,7 @@ Hoário de atendimento: Sexta 11:10 -- 12:50
 
 Atualizações importantes!
 -------------------------
+* Mai 9: Detalhamento das notas da Prova 2 disponível [P2-Notas]
 * Mai 3: Quizz teórico disponível [QuizzTeorico]
 * Abr 22: Notas dos quizzes atualizadas
 * Abr 12: Notas da P1 atualizadas devido a mudança no critério de correção das questões 8 e 10
@@ -146,6 +147,7 @@ Exercícios do Prof. Renato Assunção
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
 [P1-Stats]: ../../ancn_slides/p1_stats.pdf
 [P1-Notas]: ../../ancn_slides/p1_notas_cn.pdf
+[P2-Notas]: https://docs.google.com/spreadsheets/d/1Ojr3uzk5OpZrg0Cw1eHa_lS4Gy9OFwzJ8DSS_EMTZD4/edit?usp=sharing
 [P2-Stats]: ../../ancn_slides/p2_stats.pdf
 [Aula09]: ../../ancn_slides/A09-Interpolacao.pdf
 [03-Interpolacao]: ../../ancn_slides/03-InterpolacaoPolinomial.pdf
