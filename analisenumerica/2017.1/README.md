@@ -18,6 +18,7 @@ Horário de atendimento: Terça 17:00 -- 18:40
 
 Atualizações importantes!
 -------------------------
+* Mai 9: Notas da P2 com detalhamento de questões [P2-Notas]
 * Mai 3: Quizz teórico disponível [QuizzTeorico]
 * Abr 12: Notas da P1 atualizadas devido a mudança no critério de correção das questões 8 e 10
 * Abr 11: Notas da P1 [P1-Notas] [P1-Stats]
@@ -139,7 +140,7 @@ Exercícios do Prof. Renato Assunção
 [Notas]: https://docs.google.com/spreadsheets/d/1s3jH3t-UhV2gQFDU8lJxeavxx06HK-6vq22bMz0Gnp4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
 
-
+[P2-Notas]: https://docs.google.com/spreadsheets/d/1Ez96PDTBqb5VOmPTPI0xU1Uk9mDEuM3udqjNZFPnU5k/edit?usp=sharing
 [P1-Stats]: ../../ancn_slides/p1_stats.pdf
 [P2-Stats]: ../../ancn_slides/p2_stats.pdf
 [P1-Notas]: ../../ancn_slides/p1_notas_an.pdf
