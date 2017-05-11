@@ -79,9 +79,9 @@ Aulas
 |47-48 |  01 Jun  | Métodos baseados em tangente: Newton                         |             |
 |49-50 |  06 Jun  | Otimização de funções com uma variável                       |             |
 |51-52 |  08 Jun  | Caso multivariado                                            |             |
-|53-54 |  20 Jun  | Exemplos                                                     |             |
-|55-56 |  22 Jun  | Comparação dos métodos.                                      |             |
-|57-58 |  27 Jun  | Prova 4. (Terça)                                             |             |
+|53-54 |  13 Jun  | Exemplos                                                     |             |
+|55-56 |  20 Jun  | Comparação dos métodos.                                      |             |
+|57-58 |  22 Jun  | Prova 4. (Quinta)                                            |             |
 |59-60 |  29 Jun  | Prova Especial. (Quinta)                                     |             |
 
 
