@@ -63,11 +63,11 @@ Aulas
 |27-28 |  02 Mai  | Regressão linear simples e múltipla                          |[Aula13], [Ajuste]|
 |29-30 |  04 Mai  | Qualidade do ajuste                                          |[Quizz10], [Aula14], [Ajuste] |
 |31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                        |[P2-Stats], [QuizzTeorico], [GabaritoTeorico] |
-|33-34 |  09 Mai  | Decomposição QR                                              |[Quizz11], [Aula15] |
+|33-34 |  09 Mai  | Decomposição QR                                              |[Quizz11], [Aula15], [QR], [GramSchmidt], [Video-sobre-QR] |
 
 |aula  |  dia     | Integração numérica                                          | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|35-36 |  11 Mai  | Fórmulas de Newton-Cotes.                                    |             |
+|35-36 |  11 Mai  | Fórmulas de Newton-Cotes.                                    |[Quizz12], [Aula16] |
 |37-38 |  16 Mai  | Erro de integração de Newton-Cotes.                          |             |
 |39-40 |  18 Mai  | Quadratura de Gauss-Legendre.                                |             |
 |41-42 |  23 Mai  | Erro de integração de Gauss-Legendre. Integração iterativa.  |             |
@@ -114,6 +114,7 @@ Exercícios do Prof. Renato Assunção
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
 [02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
 [Ajuste]: ../../ancn_slides/04-AjusteCurvas.pdf
+[QR]: ../../ancn_slides/QRdecomp.pdf
 [02-AL]: ../../ancn_slides/A02-RevisaoAL.pdf
 [03-SN]: ../../ancn_slides/A03-SistemasNumericos.pdf
 [04-SL]: ../../ancn_slides/A04-SistemasLineares.pdf
@@ -128,6 +129,7 @@ Exercícios do Prof. Renato Assunção
 [Aula13]: ../../ancn_slides/A13-RegressaoLinear.pdf
 [Aula14]: ../../ancn_slides/A14-QualidadeAjuste.pdf
 [Aula15]: ../../ancn_slides/A15-QR.pdf
+[Aula16]: ../../ancn_slides/A16-NewtonCotes.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [QuizzTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
@@ -142,6 +144,7 @@ Exercícios do Prof. Renato Assunção
 [Quizz09]: ../../ancn_slides/gabarito09.pdf
 [Quizz10]: ../../ancn_slides/gabarito10.pdf
 [Quizz11]: ../../ancn_slides/gabarito11.pdf
+[Quizz12]: ../../ancn_slides/gabarito12.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1Jj4B5pZUjqkPsDmNNvjAiSXKOOzk_EtbKYVpVCbxLX4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
@@ -149,5 +152,6 @@ Exercícios do Prof. Renato Assunção
 [P1-Notas]: ../../ancn_slides/p1_notas_cn.pdf
 [P2-Notas]: https://docs.google.com/spreadsheets/d/1Ojr3uzk5OpZrg0Cw1eHa_lS4Gy9OFwzJ8DSS_EMTZD4/edit?usp=sharing
 [P2-Stats]: ../../ancn_slides/p2_stats.pdf
-[Aula09]: ../../ancn_slides/A09-Interpolacao.pdf
 [03-Interpolacao]: ../../ancn_slides/03-InterpolacaoPolinomial.pdf
+[Gram-Schmidt]: http://www.math.ucla.edu/~yanovsky/Teaching/Math151B/handouts/GramSchmidt.pdf
+[Video-sobre-QR]: https://www.youtube.com/watch?v=3HS-BRbJOd0
