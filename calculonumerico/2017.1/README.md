@@ -132,6 +132,7 @@ Exercícios do Prof. Renato Assunção
 [Aula14]: ../../ancn_slides/A14-QualidadeAjuste.pdf
 [Aula15]: ../../ancn_slides/A15-QR.pdf
 [Aula16]: ../../ancn_slides/A16-NewtonCotes.pdf
+[Aula17]: ../../ancn_slides/A17-ErroIntegracao.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [QuizTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
