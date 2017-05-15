@@ -19,14 +19,14 @@ Hoário de atendimento: Sexta 11:10 -- 12:50
 Atualizações importantes!
 -------------------------
 * Mai 9: Detalhamento das notas da Prova 2 disponível [P2-Notas]
-* Mai 3: Quizz teórico disponível [QuizzTeorico]
+* Mai 3: Quiz teórico disponível [QuizTeorico]
 * Abr 22: Notas dos quizzes atualizadas
 * Abr 12: Notas da P1 atualizadas devido a mudança no critério de correção das questões 8 e 10
 * Abr 11: Notas da P1 [P1-Notas] [P1-Stats]
 * Abr 04: Lista de fórmulas a ser distribuída na prova [Formulario]
 * Mar 22: Notas podem ser visualizadas nesse link [Notas]
 * Mar 22: Slides de divulgação da maratona de programação [Maratona]
-* Mar 22: Corrigido gabarito do Quizz 01
+* Mar 22: Corrigido gabarito do Quiz 01
 * Mar 20: Criado Google Group https://groups.google.com/d/forum/cn-2017-1. Por favor entre no grupo.
 * Mar 10: Correção na descrição do método de Newton nos slides [00-Intro]. A fórmula correta é
 
@@ -42,33 +42,33 @@ Aulas
 |1-2   |  09 Mar  | Introdução.                                                  |[00-Intro], [01-Pseudo], [02-SL]|
 |3-4   |  14 Mar  | Conceitos fundamentais.                                      |[02-AL], [02-SL] |
 |      |  16 Mar  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|5-6   |  21 Mar  | Representação numérica                                       |[Quizz01], [03-SN], [Erros]|
-|7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quizz02], [03-SN], [02-SL]      |
-|9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quizz03], [02-SL], [Aula05] |
-|11-12 |  30 Mar  | Decomposição LU, Decomposição de Cholesky.                   |[Quizz04], [02-SL], [Aula06] |
-|13-14 |  04 Abr  | Uso da decomposição.                                         |[Quizz05], [02-SL], [Aula07] |
-|15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |[Quizz06], [02-SL], [Aula08] |
+|5-6   |  21 Mar  | Representação numérica                                       |[Quiz01], [03-SN], [Erros]|
+|7-8   |  23 Mar  | Erros, Sistemas triangulares, Eliminação de Gauss.           |[Quiz02], [03-SN], [02-SL]      |
+|9-10  |  28 Mar  | Eliminação de Gauss, Decomposição LU.                        |[Quiz03], [02-SL], [Aula05] |
+|11-12 |  30 Mar  | Decomposição LU, Decomposição de Cholesky.                   |[Quiz04], [02-SL], [Aula06] |
+|13-14 |  04 Abr  | Uso da decomposição.                                         |[Quiz05], [02-SL], [Aula07] |
+|15-16 |  06 Abr  | Análise de erro na solução de sistemas.                      |[Quiz06], [02-SL], [Aula08] |
 |17-18 |  08 Abr  | Prova 1. (Sábado às 12:00)                                    |[P1-Stats], [P1-Notas] |
 
 |Aula  |  Dia     | Interpolação polinomial                                      | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |19-20 |  11 Abr  | Polinômios interpoladores. Polinômios de Lagrange.           |[Aula09], [03-Interpolacao] |
-|21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quizz07], [03-Interpolacao], [Aula10] |
-|23-24 |  20 Abr  | Polinômios de Gregory-Newton e escolha de pontos.            |[Quizz08], [03-Interpolacao], [Aula11] |
+|21-22 |  18 Abr  | Polinômios de Newton.                                        |[Quiz07], [03-Interpolacao], [Aula10] |
+|23-24 |  20 Abr  | Polinômios de Gregory-Newton e escolha de pontos.            |[Quiz08], [03-Interpolacao], [Aula11] |
 |      |  25 Abr  | Não haverá aula (atividades acadêmicas complementares)       |             |
-|25-26 |  27 Abr  | Erro de truncamento.                                         |[Quizz09], [Aula12], [03-Interpolacao] |
+|25-26 |  27 Abr  | Erro de truncamento.                                         |[Quiz09], [Aula12], [03-Interpolacao] |
 
 |Aula  |  Dia     | Ajuste de curvas                                             | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|27-28 |  02 Mai  | Regressão linear simples e múltipla                          |[Aula13], [Ajuste]|
-|29-30 |  04 Mai  | Qualidade do ajuste                                          |[Quizz10], [Aula14], [Ajuste] |
-|31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                        |[P2-Stats], [QuizzTeorico], [GabaritoTeorico] |
-|33-34 |  09 Mai  | Decomposição QR                                              |[Quizz11], [Aula15], [QR], [Gram-Schmidt], [Video-sobre-QR] |
+|27-28 |  02 Mai  | Regressão linear simples e múltipla                          |[Aula13], [04-Ajuste]|
+|29-30 |  04 Mai  | Qualidade do ajuste                                          |[Quiz10], [Aula14], [04-Ajuste] |
+|31-32 |  06 Mai  | Prova 2. (Sala 1020, Sábado às 08:00)                        |[P2-Stats], [QuizTeorico], [GabaritoTeorico] |
+|33-34 |  09 Mai  | Decomposição QR                                              |[Quiz11], [Aula15], [QR], [Gram-Schmidt], [Video-sobre-QR] |
 
 |aula  |  dia     | Integração numérica                                          | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|35-36 |  11 Mai  | Fórmulas de Newton-Cotes.                                    |[Quizz12], [Aula16] |
-|37-38 |  16 Mai  | Erro de integração de Newton-Cotes.                          |             |
+|35-36 |  11 Mai  | Fórmulas de Newton-Cotes.                                    |[Quiz12], [Aula16], [05-Integracao] |
+|37-38 |  16 Mai  | Erro de integração de Newton-Cotes.                          |[Quiz13], [Aula17], [05-Integracao] |
 |39-40 |  18 Mai  | Quadratura de Gauss-Legendre.                                |             |
 |41-42 |  23 Mai  | Erro de integração de Gauss-Legendre. Integração iterativa.  |             |
 |43-44 |  25 Mai  | Prova 3. (Quinta)                                            |             |
@@ -113,7 +113,9 @@ Exercícios do Prof. Renato Assunção
 [00-Intro]: ../../ancn_slides/00tz-Intro.pdf
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
 [02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
-[Ajuste]: ../../ancn_slides/04-AjusteCurvas.pdf
+[03-Interpolacao]: ../../ancn_slides/03-InterpolacaoPolinomial.pdf
+[04-Ajuste]: ../../ancn_slides/04-AjusteCurvas.pdf
+[05-Integracao]: ../../ancn_slides/05-IntegracaoNumerica.pdf
 [QR]: ../../ancn_slides/QRdecomp.pdf
 [02-AL]: ../../ancn_slides/A02-RevisaoAL.pdf
 [03-SN]: ../../ancn_slides/A03-SistemasNumericos.pdf
@@ -131,20 +133,21 @@ Exercícios do Prof. Renato Assunção
 [Aula15]: ../../ancn_slides/A15-QR.pdf
 [Aula16]: ../../ancn_slides/A16-NewtonCotes.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
-[QuizzTeorico]: ../../ancn_slides/quizz-theory.pdf
+[QuizTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
-[Quizz01]: ../../ancn_slides/quizz01.pdf
-[Quizz02]: ../../ancn_slides/gabarito02.pdf
-[Quizz03]: ../../ancn_slides/gabarito03.pdf
-[Quizz04]: ../../ancn_slides/gabarito04.pdf
-[Quizz05]: ../../ancn_slides/gabarito05.pdf
-[Quizz06]: ../../ancn_slides/gabarito06.pdf
-[Quizz07]: ../../ancn_slides/gabarito07.pdf
-[Quizz08]: ../../ancn_slides/gabarito08.pdf
-[Quizz09]: ../../ancn_slides/gabarito09.pdf
-[Quizz10]: ../../ancn_slides/gabarito10.pdf
-[Quizz11]: ../../ancn_slides/gabarito11.pdf
-[Quizz12]: ../../ancn_slides/gabarito12.pdf
+[Quiz01]: ../../ancn_slides/quizz01.pdf
+[Quiz02]: ../../ancn_slides/gabarito02.pdf
+[Quiz03]: ../../ancn_slides/gabarito03.pdf
+[Quiz04]: ../../ancn_slides/gabarito04.pdf
+[Quiz05]: ../../ancn_slides/gabarito05.pdf
+[Quiz06]: ../../ancn_slides/gabarito06.pdf
+[Quiz07]: ../../ancn_slides/gabarito07.pdf
+[Quiz08]: ../../ancn_slides/gabarito08.pdf
+[Quiz09]: ../../ancn_slides/gabarito09.pdf
+[Quiz10]: ../../ancn_slides/gabarito10.pdf
+[Quiz11]: ../../ancn_slides/gabarito11.pdf
+[Quiz12]: ../../ancn_slides/gabarito12.pdf
+[Quiz13]: ../../ancn_slides/gabarito13.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1Jj4B5pZUjqkPsDmNNvjAiSXKOOzk_EtbKYVpVCbxLX4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
@@ -152,6 +155,5 @@ Exercícios do Prof. Renato Assunção
 [P1-Notas]: ../../ancn_slides/p1_notas_cn.pdf
 [P2-Notas]: https://docs.google.com/spreadsheets/d/1Ojr3uzk5OpZrg0Cw1eHa_lS4Gy9OFwzJ8DSS_EMTZD4/edit?usp=sharing
 [P2-Stats]: ../../ancn_slides/p2_stats.pdf
-[03-Interpolacao]: ../../ancn_slides/03-InterpolacaoPolinomial.pdf
 [Gram-Schmidt]: http://www.math.ucla.edu/~yanovsky/Teaching/Math151B/handouts/GramSchmidt.pdf
 [Video-sobre-QR]: https://www.youtube.com/watch?v=3HS-BRbJOd0
