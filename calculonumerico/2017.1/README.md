@@ -69,7 +69,7 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |35-36 |  11 Mai  | Fórmulas de Newton-Cotes.                                    |[Quiz12], [Aula16], [05-Integracao] |
 |37-38 |  16 Mai  | Erro de integração de Newton-Cotes.                          |[Quiz13], [Aula17], [05-Integracao] |
-|39-40 |  18 Mai  | Quadratura de Gauss-Legendre.                                |[Quiz14], [05-Integracao] |
+|39-40 |  18 Mai  | Quadratura de Gauss-Legendre.                                |[Quiz14], [Aula18], [05-Integracao] |
 |41-42 |  23 Mai  | Erro de integração de Gauss-Legendre. Integração iterativa.  |             |
 |43-44 |  25 Mai  | Prova 3. (Quinta)                                            |             |
 
@@ -133,6 +133,7 @@ Exercícios do Prof. Renato Assunção
 [Aula15]: ../../ancn_slides/A15-QR.pdf
 [Aula16]: ../../ancn_slides/A16-NewtonCotes.pdf
 [Aula17]: ../../ancn_slides/A17-ErroIntegracao.pdf
+[Aula18]: ../../ancn_slides/A18-QuadraturaGauss.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [QuizTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
