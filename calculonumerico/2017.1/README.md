@@ -18,7 +18,7 @@ Hoário de atendimento: Sexta 11:10 -- 12:50
 
 Atualizações importantes!
 -------------------------
-* Mai 22: Exercícios recomendados como revisão para prova 3: [Lista04] (ex. 2, 3 e 5), [Lista05] (ex. 7), [ListaNewtonCotes] (ex. 4 e 6), [ListaQuadGauss] (ex. 1)
+* Mai 22: Exercícios recomendados como revisão para prova 3: [Lista 4] (ex. 2, 3 e 5), [Lista 5] (ex. 7), [ListaNewtonCotes] (ex. 4 e 6), [ListaQuadGauss] (ex. 1)
 * Mai 9: Detalhamento das notas da Prova 2 disponível [P2-Notas]
 * Mai 3: Quiz teórico disponível [QuizTeorico]
 * Abr 22: Notas dos quizzes atualizadas
