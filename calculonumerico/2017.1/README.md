@@ -18,6 +18,7 @@ Hoário de atendimento: Sexta 11:10 -- 12:50
 
 Atualizações importantes!
 -------------------------
+* Mai 22: Exercícios recomendados como revisão para prova 3: [Lista04] (ex. 2, 3 e 5), [Lista05] (ex. 7), [ListaNewtonCotes] (ex. 4 e 6), [ListaQuadGauss] (ex. 1)
 * Mai 9: Detalhamento das notas da Prova 2 disponível [P2-Notas]
 * Mai 3: Quiz teórico disponível [QuizTeorico]
 * Abr 22: Notas dos quizzes atualizadas
@@ -108,7 +109,8 @@ Exercícios do Prof. Renato Assunção
 [Lista 7]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista07.pdf
 [Lista 8]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista08.pdf
 [Lista 9]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista09.pdf
-
+[ListaNewtonCotes]: http://paginapessoal.utfpr.edu.br/tatianecazarin/calculo-numerico/listas-de-exercicios/Lista6_integracao.pdf
+[ListaQuadGauss]: http://paginapessoal.utfpr.edu.br/yaratadano/2013-02/cc33d-calculo-numerico/listas-de-exercicios/Lista%20de%20Exerci301cios%204%20-%20Quadratura%20Gaussiana.pdf
 
 [00-Intro]: ../../ancn_slides/00tz-Intro.pdf
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
