@@ -76,7 +76,7 @@ Aulas
 
 |Aula  |  Dia     | Raízes de equações                                           | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|45-46 |  30 Mai  | Isolamento de raízes e Método da bisseção.                   |             |
+|45-46 |  30 Mai  | Isolamento de raízes e Método da bisseção.                   |[Aula20], [06-Raizes]|
 |47-48 |  01 Jun  | Métodos baseados em tangente: Newton                         |             |
 |49-50 |  06 Jun  | Otimização de funções com uma variável                       |             |
 |51-52 |  08 Jun  | Caso multivariado                                            |             |
@@ -118,6 +118,7 @@ Exercícios do Prof. Renato Assunção
 [03-Interpolacao]: ../../ancn_slides/03-InterpolacaoPolinomial.pdf
 [04-Ajuste]: ../../ancn_slides/04-AjusteCurvas.pdf
 [05-Integracao]: ../../ancn_slides/05-IntegracaoNumerica.pdf
+[06-Raizes]: ../../ancn_slides/06-RaizesEquacoes.pdf
 [QR]: ../../ancn_slides/QRdecomp.pdf
 [02-AL]: ../../ancn_slides/A02-RevisaoAL.pdf
 [03-SN]: ../../ancn_slides/A03-SistemasNumericos.pdf
@@ -137,6 +138,7 @@ Exercícios do Prof. Renato Assunção
 [Aula17]: ../../ancn_slides/A17-ErroIntegracao.pdf
 [Aula18]: ../../ancn_slides/A18-QuadraturaGauss.pdf
 [Aula19]: ../../ancn_slides/A19-ErroQuadraturaGauss.pdf
+[Aula20]: ../../ancn_slides/A20-IsolamentoRaizesBissecao.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [QuizTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
