@@ -78,7 +78,7 @@ Aulas
 |Aula  |  Dia     | Raízes de equações                                           | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |45-46 |  30 Mai  | Isolamento de raízes e Método da bisseção.                   |[Aula20], [06-Raizes]|
-|47-48 |  01 Jun  | Método da Bisseção. Métodos baseados em tangente: Newton     |             |
+|47-48 |  01 Jun  | Método da Bisseção. Métodos baseados em tangente: Newton     |[Quiz16], [Aula21], [06-Raizes] |
 |49-50 |  06 Jun  | Otimização de funções com uma variável                       |             |
 |51-52 |  08 Jun  | Caso multivariado                                            |             |
 |53-54 |  13 Jun  | Exemplos                                                     |             |
@@ -140,6 +140,7 @@ Exercícios do Prof. Renato Assunção
 [Aula18]: ../../ancn_slides/A18-QuadraturaGauss.pdf
 [Aula19]: ../../ancn_slides/A19-ErroQuadraturaGauss.pdf
 [Aula20]: ../../ancn_slides/A20-IsolamentoRaizesBissecao.pdf
+[Aula21]: ../../ancn_slides/A21-MetodoBissecao.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [QuizTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
@@ -158,6 +159,7 @@ Exercícios do Prof. Renato Assunção
 [Quiz13]: ../../ancn_slides/gabarito13.pdf
 [Quiz14]: ../../ancn_slides/gabarito14.pdf
 [Quiz15]: ../../ancn_slides/gabarito15.pdf
+[Quiz16]: ../../ancn_slides/gabarito16.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1Jj4B5pZUjqkPsDmNNvjAiSXKOOzk_EtbKYVpVCbxLX4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
