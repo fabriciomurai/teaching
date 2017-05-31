@@ -18,6 +18,7 @@ Hoário de atendimento: Sexta 11:10 -- 12:50
 
 Atualizações importantes!
 -------------------------
+* Mai 31: Detalhamento das notas da Prova 3 disponível [P3-Notas]
 * Mai 22: Exercícios recomendados como revisão para prova 3: [Lista 4] (ex. 2, 3 e 5), [Lista 5] (ex. 7), [ListaNewtonCotes] (ex. 4 e 6), [ListaQuadGauss] (ex. 1)
 * Mai 9: Detalhamento das notas da Prova 2 disponível [P2-Notas]
 * Mai 3: Quiz teórico disponível [QuizTeorico]
@@ -72,18 +73,18 @@ Aulas
 |37-38 |  16 Mai  | Erro de integração de Newton-Cotes.                          |[Quiz13], [Aula17], [05-Integracao] |
 |39-40 |  18 Mai  | Quadratura de Gauss-Legendre.                                |[Quiz14], [Aula18], [05-Integracao] |
 |41-42 |  23 Mai  | Erro de integração de Gauss-Legendre. Integração iterativa.  |[Quiz15], [Aula19], [05-Integracao] |
-|43-44 |  25 Mai  | Prova 3. (Quinta)                                            |             |
+|43-44 |  25 Mai  | Prova 3. (Quinta)                                            |[P3-Notas] |
 
 |Aula  |  Dia     | Raízes de equações                                           | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |45-46 |  30 Mai  | Isolamento de raízes e Método da bisseção.                   |[Aula20], [06-Raizes]|
-|47-48 |  01 Jun  | Métodos baseados em tangente: Newton                         |             |
+|47-48 |  01 Jun  | Método da Bisseção. Métodos baseados em tangente: Newton     |             |
 |49-50 |  06 Jun  | Otimização de funções com uma variável                       |             |
 |51-52 |  08 Jun  | Caso multivariado                                            |             |
 |53-54 |  13 Jun  | Exemplos                                                     |             |
 |55-56 |  20 Jun  | Comparação dos métodos.                                      |             |
-|57-58 |  22 Jun  | Prova 4. (Quinta)                                            |             |
-|59-60 |  29 Jun  | Prova Especial. (Quinta)                                     |             |
+|57-58 |  22 Jun  | A definir.                                                   |             |
+|59-60 |  27 Jun  | Prova 4. (Terça)                                             |             |
 
 
 Exercícios do Prof. Renato Assunção
@@ -164,5 +165,6 @@ Exercícios do Prof. Renato Assunção
 [P1-Notas]: ../../ancn_slides/p1_notas_cn.pdf
 [P2-Notas]: https://docs.google.com/spreadsheets/d/1Ojr3uzk5OpZrg0Cw1eHa_lS4Gy9OFwzJ8DSS_EMTZD4/edit?usp=sharing
 [P2-Stats]: ../../ancn_slides/p2_stats.pdf
+[P3-Notas]: ../../ancn_slides/p3_notas.pdf
 [Gram-Schmidt]: http://www.math.ucla.edu/~yanovsky/Teaching/Math151B/handouts/GramSchmidt.pdf
 [Video-sobre-QR]: https://www.youtube.com/watch?v=3HS-BRbJOd0
