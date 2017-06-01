@@ -140,7 +140,7 @@ Exercícios do Prof. Renato Assunção
 [Aula18]: ../../ancn_slides/A18-QuadraturaGauss.pdf
 [Aula19]: ../../ancn_slides/A19-ErroQuadraturaGauss.pdf
 [Aula20]: ../../ancn_slides/A20-IsolamentoRaizesBissecao.pdf
-[Aula21]: ../../ancn_slides/A21-MetodoBissecao.pdf
+[Aula21]: ../../ancn_slides/A21-Bissecao.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [QuizTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
