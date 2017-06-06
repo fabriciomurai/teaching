@@ -79,7 +79,7 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |45-46 |  30 Mai  | Isolamento de raízes.                                        |[Aula20], [06-Raizes]|
 |47-48 |  01 Jun  | Método da Bisseção.                                          |[Quiz16], [Aula21], [06-Raizes] |
-|49-50 |  06 Jun  | Métodos baseados em tangente: Newton                         |[Quiz17]             |
+|49-50 |  06 Jun  | Métodos baseados em tangente: Newton                         |[Quiz17], [Aula22], [Raizes01], [Raizes02] |
 |51-52 |  08 Jun  | Otimização de funções com uma variável                       |[Quiz18]             |
 |53-54 |  13 Jun  | Caso multivariado                                            |             |
 |55-56 |  20 Jun  | Exemplos                                                     |             |
@@ -141,7 +141,11 @@ Exercícios do Prof. Renato Assunção
 [Aula19]: ../../ancn_slides/A19-ErroQuadraturaGauss.pdf
 [Aula20]: ../../ancn_slides/A20-IsolamentoRaizesBissecao.pdf
 [Aula21]: ../../ancn_slides/A21-Bissecao.pdf
+[Aula22]: ../../ancn_slides/A21-Newton.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
+[Raizes01]: ../../ancn_slides/raizes-otimizacao01.pdf
+[Raizes02]: ../../ancn_slides/raizes-otimizacao02.pdf
+[Raizes03]: ../../ancn_slides/raizes-otimizacao03.pdf
 [QuizTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
 [Quiz01]: ../../ancn_slides/quizz01.pdf
