@@ -77,13 +77,13 @@ Aulas
 
 |Aula  |  Dia     | Raízes de equações                                           | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|45-46 |  30 Mai  | Isolamento de raízes e Método da bisseção.                   |[Aula20], [06-Raizes]|
-|47-48 |  01 Jun  | Método da Bisseção. Métodos baseados em tangente: Newton     |[Quiz16], [Aula21], [06-Raizes] |
-|49-50 |  06 Jun  | Otimização de funções com uma variável                       |             |
-|51-52 |  08 Jun  | Caso multivariado                                            |             |
-|53-54 |  13 Jun  | Exemplos                                                     |             |
-|55-56 |  20 Jun  | Comparação dos métodos.                                      |             |
-|57-58 |  22 Jun  | A definir.                                                   |             |
+|45-46 |  30 Mai  | Isolamento de raízes.                                        |[Aula20], [06-Raizes]|
+|47-48 |  01 Jun  | Método da Bisseção.                                          |[Quiz16], [Aula21], [06-Raizes] |
+|49-50 |  06 Jun  | Métodos baseados em tangente: Newton                         |[Quiz17]             |
+|51-52 |  08 Jun  | Otimização de funções com uma variável                       |[Quiz18]             |
+|53-54 |  13 Jun  | Caso multivariado                                            |             |
+|55-56 |  20 Jun  | Exemplos                                                     |             |
+|57-58 |  22 Jun  | Comparação dos métodos.                                      |             |
 |59-60 |  27 Jun  | Prova 4. (Terça)                                             |             |
 
 
@@ -160,6 +160,8 @@ Exercícios do Prof. Renato Assunção
 [Quiz14]: ../../ancn_slides/gabarito14.pdf
 [Quiz15]: ../../ancn_slides/gabarito15.pdf
 [Quiz16]: ../../ancn_slides/gabarito16.pdf
+[Quiz17]: ../../ancn_slides/gabarito17.pdf
+[Quiz18]: ../../ancn_slides/gabarito18.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1Jj4B5pZUjqkPsDmNNvjAiSXKOOzk_EtbKYVpVCbxLX4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
