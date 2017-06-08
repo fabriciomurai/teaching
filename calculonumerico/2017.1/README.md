@@ -79,11 +79,11 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |45-46 |  30 Mai  | Isolamento de raízes.                                        |[Aula20], [06-Raizes]|
 |47-48 |  01 Jun  | Método da Bisseção.                                          |[Quiz16], [Aula21], [06-Raizes] |
-|49-50 |  06 Jun  | Métodos baseados em tangente: Newton                         |[Quiz17], [Aula22], [Raizes01], [Raizes02] |
-|51-52 |  08 Jun  | Otimização de funções com uma variável                       |[Quiz18]             |
-|53-54 |  13 Jun  | Caso multivariado                                            |             |
-|55-56 |  20 Jun  | Exemplos                                                     |             |
-|57-58 |  22 Jun  | Comparação dos métodos.                                      |             |
+|49-50 |  06 Jun  | Métodos baseados em tangente: Newton                         |[Quiz17], [Aula22], [Raizes01] |
+|51-52 |  08 Jun  | Métodos baseados em tangente: Secante e Regula-Falsi         |[Quiz18], [Aula23], [Raizes02]             |
+|53-54 |  13 Jun  | Otimização de funções com uma variável                       |[Raizes02] |
+|55-56 |  20 Jun  | Caso multivariado                                            |             |
+|57-58 |  22 Jun  | Exemplos e Comparação dos métodos.                           |             |
 |59-60 |  27 Jun  | Prova 4. (Terça)                                             |             |
 
 
@@ -141,7 +141,8 @@ Exercícios do Prof. Renato Assunção
 [Aula19]: ../../ancn_slides/A19-ErroQuadraturaGauss.pdf
 [Aula20]: ../../ancn_slides/A20-IsolamentoRaizesBissecao.pdf
 [Aula21]: ../../ancn_slides/A21-Bissecao.pdf
-[Aula22]: ../../ancn_slides/A21-Newton.pdf
+[Aula22]: ../../ancn_slides/A22-Newton.pdf
+[Aula23]: ../../ancn_slides/A23-SecanteRegulaFalsi.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Raizes01]: ../../ancn_slides/raizes-otimizacao01.pdf
 [Raizes02]: ../../ancn_slides/raizes-otimizacao02.pdf
