@@ -81,7 +81,7 @@ Aulas
 |47-48 |  01 Jun  | Método da Bisseção.                                          |[Quiz16], [Aula21], [06-Raizes] |
 |49-50 |  06 Jun  | Métodos baseados em tangente: Newton                         |[Quiz17], [Aula22], [Raizes01] |
 |51-52 |  08 Jun  | Métodos baseados em tangente: Secante e Regula-Falsi         |[Quiz18], [Aula23], [Raizes02]             |
-|53-54 |  13 Jun  | Otimização de funções com uma variável                       |[Raizes02] |
+|53-54 |  13 Jun  | Otimização de funções com uma variável                       |[Quiz19], [Raizes03] |
 |55-56 |  20 Jun  | Caso multivariado                                            |             |
 |57-58 |  22 Jun  | Exemplos e Comparação dos métodos.                           |             |
 |59-60 |  27 Jun  | Prova 4. (Terça)                                             |             |
@@ -167,6 +167,7 @@ Exercícios do Prof. Renato Assunção
 [Quiz16]: ../../ancn_slides/gabarito16.pdf
 [Quiz17]: ../../ancn_slides/gabarito17.pdf
 [Quiz18]: ../../ancn_slides/gabarito18.pdf
+[Quiz19]: ../../ancn_slides/gabarito19.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1Jj4B5pZUjqkPsDmNNvjAiSXKOOzk_EtbKYVpVCbxLX4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
