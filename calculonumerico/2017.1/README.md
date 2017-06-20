@@ -82,8 +82,8 @@ Aulas
 |49-50 |  06 Jun  | Métodos baseados em tangente: Newton                         |[Quiz17], [Aula22], [Raizes01] |
 |51-52 |  08 Jun  | Métodos baseados em tangente: Secante e Regula-Falsi         |[Quiz18], [Aula23], [Raizes02]             |
 |53-54 |  13 Jun  | Otimização de funções com uma variável                       |[Quiz19], [Aula24], [Raizes02] |
-|55-56 |  20 Jun  | Caso multivariado                                            |[Quiz20], [Aula25], [Raizes03]             |
-|57-58 |  22 Jun  | Exemplos e Comparação dos métodos.                           |[Quiz21], [Aula26], [Raizes03], [06-Raizes]             |
+|55-56 |  20 Jun  | Caso multivariado e exemplos                                 |[Quiz20], [Aula25], [Raizes03]             |
+|57-58 |  22 Jun  | Comparação dos métodos.                                      |[Quiz21], [Aula26], [Raizes03], [06-Raizes]             |
 |59-60 |  27 Jun  | Prova 4. (Terça)                                             |             |
 
 
@@ -144,6 +144,7 @@ Exercícios do Prof. Renato Assunção
 [Aula22]: ../../ancn_slides/A22-Newton.pdf
 [Aula23]: ../../ancn_slides/A23-SecanteRegulaFalsi.pdf
 [Aula24]: ../../ancn_slides/A24-OtimizacaoNLS.pdf
+[Aula25]: ../../ancn_slides/A25-NewtonMultivariado.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Raizes01]: ../../ancn_slides/raizes-otimizacao01.pdf
 [Raizes02]: ../../ancn_slides/raizes-otimizacao02.pdf
