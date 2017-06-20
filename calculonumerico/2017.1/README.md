@@ -81,9 +81,9 @@ Aulas
 |47-48 |  01 Jun  | Método da Bisseção.                                          |[Quiz16], [Aula21], [06-Raizes] |
 |49-50 |  06 Jun  | Métodos baseados em tangente: Newton                         |[Quiz17], [Aula22], [Raizes01] |
 |51-52 |  08 Jun  | Métodos baseados em tangente: Secante e Regula-Falsi         |[Quiz18], [Aula23], [Raizes02]             |
-|53-54 |  13 Jun  | Otimização de funções com uma variável                       |[Quiz19], [Raizes03] |
-|55-56 |  20 Jun  | Caso multivariado                                            |             |
-|57-58 |  22 Jun  | Exemplos e Comparação dos métodos.                           |             |
+|53-54 |  13 Jun  | Otimização de funções com uma variável                       |[Quiz19], [Aula24], [Raizes02] |
+|55-56 |  20 Jun  | Caso multivariado                                            |[Quiz20], [Aula25], [Raizes03]             |
+|57-58 |  22 Jun  | Exemplos e Comparação dos métodos.                           |[Quiz21], [Aula26], [Raizes03], [06-Raizes]             |
 |59-60 |  27 Jun  | Prova 4. (Terça)                                             |             |
 
 
@@ -143,6 +143,7 @@ Exercícios do Prof. Renato Assunção
 [Aula21]: ../../ancn_slides/A21-Bissecao.pdf
 [Aula22]: ../../ancn_slides/A22-Newton.pdf
 [Aula23]: ../../ancn_slides/A23-SecanteRegulaFalsi.pdf
+[Aula24]: ../../ancn_slides/A24-OtimizacaoNLS.pdf
 [Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
 [Raizes01]: ../../ancn_slides/raizes-otimizacao01.pdf
 [Raizes02]: ../../ancn_slides/raizes-otimizacao02.pdf
@@ -168,6 +169,8 @@ Exercícios do Prof. Renato Assunção
 [Quiz17]: ../../ancn_slides/gabarito17.pdf
 [Quiz18]: ../../ancn_slides/gabarito18.pdf
 [Quiz19]: ../../ancn_slides/gabarito19.pdf
+[Quiz20]: ../../ancn_slides/gabarito20.pdf
+[Quiz21]: ../../ancn_slides/gabarito21.pdf
 [Maratona]: ../../ancn_slides/divulgacao-maratona.pdf
 [Notas]: https://docs.google.com/spreadsheets/d/1Jj4B5pZUjqkPsDmNNvjAiSXKOOzk_EtbKYVpVCbxLX4/edit?usp=sharing
 [Formulario]: http://homepages.dcc.ufmg.br/~lcerf/slides/formulario.pdf
