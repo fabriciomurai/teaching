@@ -18,6 +18,7 @@ Hoário de atendimento: Sexta 11:10 -- 12:50
 
 Atualizações importantes!
 -------------------------
+* Jun 29: Detalhamento das notas da Prova 4 disponível [P4-Notas]
 * Mai 31: Detalhamento das notas da Prova 3 disponível [P3-Notas]
 * Mai 22: Exercícios recomendados como revisão para prova 3: [Lista 4] (ex. 2, 3 e 5), [Lista 5] (ex. 7), [ListaNewtonCotes] (ex. 4 e 6), [ListaQuadGauss] (ex. 1)
 * Mai 9: Detalhamento das notas da Prova 2 disponível [P2-Notas]
@@ -84,7 +85,7 @@ Aulas
 |53-54 |  13 Jun  | Otimização de funções com uma variável                       |[Quiz19], [Aula24], [Raizes02] |
 |55-56 |  20 Jun  | Caso multivariado e exemplos                                 |[Quiz20], [Aula25], [Raizes03]             |
 |57-58 |  22 Jun  | Comparação dos métodos.                                      |[Quiz21], [Aula26], [Raizes03], [06-Raizes]             |
-|59-60 |  27 Jun  | Prova 4. (Terça)                                             |             |
+|59-60 |  27 Jun  | Prova 4. (Terça)                                             |[P4-Notas], [P4-Stats]             |
 
 
 Exercícios do Prof. Renato Assunção
@@ -180,5 +181,7 @@ Exercícios do Prof. Renato Assunção
 [P2-Notas]: https://docs.google.com/spreadsheets/d/1Ojr3uzk5OpZrg0Cw1eHa_lS4Gy9OFwzJ8DSS_EMTZD4/edit?usp=sharing
 [P2-Stats]: ../../ancn_slides/p2_stats.pdf
 [P3-Notas]: ../../ancn_slides/p3_notas.pdf
+[P4-Notas]: ../../ancn_slides/p4_notas.pdf
+[P4-Stats]: ../../ancn_slides/p4_stats.pdf
 [Gram-Schmidt]: http://www.math.ucla.edu/~yanovsky/Teaching/Math151B/handouts/GramSchmidt.pdf
 [Video-sobre-QR]: https://www.youtube.com/watch?v=3HS-BRbJOd0
