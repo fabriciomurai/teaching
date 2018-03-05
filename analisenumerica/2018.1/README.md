@@ -96,7 +96,7 @@ Exercícios do Prof. Renato Assunção
 [Aula10]: ../../ancn_slides/A10-PolinomioNewton.pdf
 [Aula11]: ../../ancn_slides/A11-GregoryNewton.pdf
 [Aula12]: ../../ancn_slides/A12-ErroInterpolacao.pdf
-[Erros]: ../../ancn_slides/03-PontoFlutuanteErros.pdf
+[Erros]: ../../ancn_slides/PontoFlutuanteErros.pdf
 [QuizzTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
