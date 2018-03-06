@@ -5,7 +5,7 @@ Professor: Fabricio Murai
 
 Turmas: TZ
 
-Local da aula: 1019
+Local da aula: 1022
 
 Horário: Ter e Qui 9:25 - 11:05
 
