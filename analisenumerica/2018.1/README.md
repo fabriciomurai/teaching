@@ -25,7 +25,7 @@ Aulas
 |Aula  |  Dia     | Parte I: Sistemas Numéricos e Sistemas lineares | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |01|Mar 06| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros]|
-|02|Mar 08|  ||
+|02|Mar 08| Aritmética de Ponto Flutuante. Revisão de AL. | [Erros] [Notebook PF]|
 |03|Mar 13|  ||
 |04|Mar 15|  ||
 |05|Mar 20|  ||
@@ -80,6 +80,7 @@ Exercícios do Prof. Renato Assunção
 [Lista 9]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista09.pdf
 
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
+[Notebook PF]:../../ancn_slides/PontoFlutuante.ipynb
 
 
 [00-Intro]: ../../ancn_slides/00te-Intro.pdf
