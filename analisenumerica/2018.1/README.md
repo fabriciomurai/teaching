@@ -26,7 +26,7 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |01|Mar 06| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros]|
 |02|Mar 08| Aritmética de Ponto Flutuante. Revisão de AL. | [Erros] [Notebook PF] [Revisao AL]|
-|03|Mar 13|  ||
+|03|Mar 13| Revisão de AL. Eliminação de Gauss. | [Revisao AL] |
 |04|Mar 15|  ||
 |05|Mar 20|  ||
 |06|Mar 22|  ||
