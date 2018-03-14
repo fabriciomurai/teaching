@@ -15,6 +15,7 @@ Monitor: a definir
 
 Atualizações importantes!
 -------------------------
+ * Primeira lista de exercícios disponível na página.
 
 
 Aulas
@@ -45,6 +46,11 @@ Aulas
 |30 |Jun 16| Prova 3 (Sábado às XX:XX)                                             |             |
 
 
+Listas de exercícios
+--------------------
+ * [Lista SL]: entrega 23/03/2018 via Moodle.
+
+
 Material Suplementar
 --------------------
  * Cálculo Numérico -- Fundamentos e Aplicações. Claudio Hirofume Asano e Eduardo Colli [Livro CN].
@@ -57,6 +63,7 @@ Material Suplementar
 
 Exercícios do Prof. Renato Assunção
 -----------------------------------
+*ATENÇÃO*: Estas *não* são as listas de exercícios da nossa turma. São apenas material suplementar.
  * [Lista 1] [Gabarito 1]
  * [Lista 2]
  * [Lista 3] [Gabarito 3]
@@ -67,6 +74,7 @@ Exercícios do Prof. Renato Assunção
  * [Lista 8]
  * [Lista 9]
 
+[Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista 1]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista01.pdf
 [Gabarito 1]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_01.pdf
 [Lista 2]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista02.pdf
