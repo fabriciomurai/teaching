@@ -28,7 +28,7 @@ Aulas
 |01|Mar 06| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros]|
 |02|Mar 08| Aritmética de Ponto Flutuante. Revisão de AL. | [Erros] [Notebook PF] [Revisao AL]|
 |03|Mar 13| Revisão de AL. Eliminação de Gauss. | [Revisao AL] |
-|04|Mar 15|  ||
+|04|Mar 15| Decomposição LU. Backward stability. | [Fatoracao LU] |
 |05|Mar 20|  ||
 |06|Mar 22|  ||
 |07|Mar 27|  ||
@@ -90,6 +90,7 @@ Exercícios do Prof. Renato Assunção
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
 [Notebook PF]:../../ancn_slides/PontoFlutuante.ipynb
 [Revisao AL]:../../ancn_slides/RevisaoAL.ipynb
+[Fatoracao LU]:../../ancn_slides/FatoracaoLU.ipynb
 
 
 [00-Intro]: ../../ancn_slides/00te-Intro.pdf
