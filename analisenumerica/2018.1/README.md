@@ -29,7 +29,7 @@ Aulas
 |02|Mar 08| Aritmética de Ponto Flutuante. Revisão de AL. | [Erros] [Notebook PF] [Revisao AL]|
 |03|Mar 13| Revisão de AL. Eliminação de Gauss. | [Revisao AL] |
 |04|Mar 15| Decomposição LU. Backward stability. | [Fatoracao LU] |
-|05|Mar 20|  ||
+|05|Mar 20| Decomposição Cholesky e SVD. | [Cholesky] [SVD] |
 |06|Mar 22|  ||
 |07|Mar 27|  ||
 |08|Abr 03|  ||
@@ -91,6 +91,8 @@ Exercícios do Prof. Renato Assunção
 [Notebook PF]:../../ancn_slides/PontoFlutuante.ipynb
 [Revisao AL]:../../ancn_slides/RevisaoAL.ipynb
 [Fatoracao LU]:../../ancn_slides/FatoracaoLU.ipynb
+[Cholesky]:../../ancn_slides/Cholesky.ipynb
+[SVD]:../../ancn_slides/SVD.ipynb
 
 
 [00-Intro]: ../../ancn_slides/00te-Intro.pdf
