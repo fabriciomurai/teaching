@@ -36,16 +36,16 @@ Aulas
 |07|Mar 27|  ||
 |08|Abr 03|  ||
 |09|Abr 05|  ||
-|10|Abr 07| Prova 1 (Sábado às XX:XX)  ||
+|10|Abr 07| Prova 1 (Sábado às 10:00)  ||
 
 |Aula  |  Dia     | Parte II: Interpolação Polinomial e Ajuste de Curvas | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|20 | Mai 12  | Prova 2 (Sábado às XX:XX)                        | |
+|20 | Mai 19  | Prova 2 (Sábado às 15:00)                        | |
 
 
 |Aula  |  Dia     | Parte III: Integração Numérica, EDOs e Raízes de equações    | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|30 |Jun 16| Prova 3 (Sábado às XX:XX)                                             |             |
+|30 |Jun 16| Prova 3 (Sábado às 10:00)                                           |             |
 
 
 Listas de exercícios
