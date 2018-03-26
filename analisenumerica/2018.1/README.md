@@ -31,10 +31,10 @@ Aulas
 |02|Mar 08| Aritmética de Ponto Flutuante. Revisão de AL. | [Erros] [Notebook PF] [Revisao AL]|
 |03|Mar 13| Revisão de AL. Eliminação de Gauss. | [Revisao AL] |
 |04|Mar 15| Decomposição LU. Backward stability. | [Fatoracao LU] |
-|05|Mar 20| Decomposição Cholesky e SVD. | [Cholesky] [SVD] |
-|06|Mar 22|  ||
-|07|Mar 27|  ||
-|08|Abr 03|  ||
+|05|Mar 20| Decomposição Cholesky. Modelagem de tópicos. | [Cholesky] [SVD] |
+|06|Mar 22| SVD. Uso da Decomposição. | [SVD] [UsoDecomposicao] |
+|07|Mar 27| Pagerank. Decomposição Espectral. | [DecomposicaoEspectral]|
+|08|Abr 03| Numero de condição. ||
 |09|Abr 05|  ||
 |10|Abr 07| Prova 1 (Sábado às 10:00)  ||
 
@@ -95,6 +95,8 @@ Exercícios do Prof. Renato Assunção
 [Fatoracao LU]:../../ancn_slides/FatoracaoLU.ipynb
 [Cholesky]:../../ancn_slides/Cholesky.ipynb
 [SVD]:../../ancn_slides/SVD.ipynb
+[UsoDecomposicao]:../../ancn_slides/UsoDecomposicao.ipynb
+[DecomposicaoEspectral]:../../ancn_slides/DecomposicaoEspectral.ipynb
 
 
 [00-Intro]: ../../ancn_slides/00te-Intro.pdf
