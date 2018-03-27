@@ -11,7 +11,11 @@ Horário: Ter e Qui 9:25 - 11:05
 
 Monitores: Gabriel Calegari (gabrielcalegari at ufmg) e Marcelo Faraj (marcelofaraj at ufmg)
 
-Horário de monitoria: o aluno deve marcar com o monitor por email, limitado a um máximo de horas por semana.
+Horário de monitoria:
+
+ * Seg: 7:30 - 9:10 - 2060 (gabrielcalegari at ufmg, monitor oficial)
+ * Ter: 18:30 - 20:10 - 2073 (alexandre.a.andrade at hotmail.com)
+ * Qui: 14:50 - 16:30 - 2073 (marcelofaraj at ufmg)
 
 
 
