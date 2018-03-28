@@ -9,8 +9,6 @@ Local da aula: 1022
 
 Horário: Ter e Qui 9:25 - 11:05
 
-Monitores: Gabriel Calegari (gabrielcalegari at ufmg) e Marcelo Faraj (marcelofaraj at ufmg)
-
 Horário de monitoria:
 
  * Seg: 7:30 - 9:10 - 2060 (gabrielcalegari at ufmg, monitor oficial)
