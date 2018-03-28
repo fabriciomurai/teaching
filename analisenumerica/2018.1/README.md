@@ -21,7 +21,7 @@ Horário de monitoria:
 
 Atualizações importantes!
 -------------------------
- * Primeira lista de exercícios disponível na página.
+ * Segunda lista de exercícios disponível na página.
 
 
 Aulas
@@ -37,8 +37,8 @@ Aulas
 |04|Mar 15| Decomposição LU. Backward stability. | [Fatoracao LU] |
 |05|Mar 20| Decomposição Cholesky. Modelagem de tópicos. | [Cholesky] [SVD] |
 |06|Mar 22| SVD. Uso da Decomposição. | [SVD] [UsoDecomposicao] |
-|07|Mar 27| Pagerank. Decomposição Espectral. | [DecomposicaoEspectral]|
-|08|Abr 03| Numero de condição. ||
+|07|Mar 27| Decomposição Espectral. | [DecomposicaoEspectral]|
+|08|Abr 03| Numero de condição. Pagerank. ||
 |09|Abr 05|  ||
 |10|Abr 07| Prova 1 (Sábado às 10:00)  ||
 
@@ -55,6 +55,7 @@ Aulas
 Listas de exercícios
 --------------------
  * [Lista SL]: entrega 23/03/2018 via Moodle.
+ * [Lista SL2]: entrega 05/04/2018 via Moodle.
 
 
 Material Suplementar
@@ -81,6 +82,7 @@ Exercícios do Prof. Renato Assunção
  * [Lista 9]
 
 [Lista SL]: ../../ancn_slides/lista1.pdf
+[Lista SL2]: ../../ancn_slides/lista2.pdf
 [Lista 1]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista01.pdf
 [Gabarito 1]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_01.pdf
 [Lista 2]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista02.pdf
