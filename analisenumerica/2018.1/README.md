@@ -19,6 +19,7 @@ Horário de monitoria:
 
 Atualizações importantes!
 -------------------------
+ * Notas da lista 1 disponíveis [aqui](https://docs.google.com/spreadsheets/d/1JBNt5ETcFQLfBDUVJyC8JDJnn6jJs_tcqGOYpMQ1FUg/edit?usp=sharing)
  * Segunda lista de exercícios disponível na página.
 
 
