@@ -95,14 +95,14 @@ Exercícios do Prof. Renato Assunção
 [Lista 9]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista09.pdf
 
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
-[Notebook PF]:../../ancn_slides/PontoFlutuante.ipynb
-[Revisao AL]:../../ancn_slides/RevisaoAL.ipynb
-[Fatoracao LU]:../../ancn_slides/FatoracaoLU.ipynb
-[Cholesky]:../../ancn_slides/Cholesky.ipynb
-[SVD]:../../ancn_slides/SVD.ipynb
-[UsoDecomposicao]:../../ancn_slides/UsoDecomposicao.ipynb
-[NumeroCondicao]:../../ancn_slides/NumeroCondicao.ipynb
-[DecomposicaoEspectral]:../../ancn_slides/DecomposicaoEspectral.ipynb
+[Notebook PF]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/PontoFlutuante.ipynb
+[Revisao AL]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RevisaoAL.ipynb
+[Fatoracao LU]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/FatoracaoLU.ipynb
+[Cholesky]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/Cholesky.ipynb
+[SVD]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/SVD.ipynb
+[UsoDecomposicao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/UsoDecomposicao.ipynb
+[NumeroCondicao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/NumeroCondicao.ipynb
+[DecomposicaoEspectral]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/DecomposicaoEspectral.ipynb
 
 
 [00-Intro]: ../../ancn_slides/00te-Intro.pdf
