@@ -38,11 +38,12 @@ Aulas
 |06|Mar 22| SVD. Uso da Decomposição. | [SVD] [UsoDecomposicao] |
 |07|Mar 27| Decomposição Espectral. | [DecomposicaoEspectral]|
 |08|Abr 03| Numero de condição. Pagerank. | [DecomposicaoEspectral] [NumeroCondicao] |
-|09|Abr 05|  ||
+|09|Abr 05| Aula de revisão. ||
 |10|Abr 07| Prova 1 (Sábado às 10:00)  ||
 
 |Aula  |  Dia     | Parte II: Interpolação Polinomial e Ajuste de Curvas | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
+|11 |Abr 10 | Interpolação Polinomial. Polinômio de Lagrange.  | [InterpolacaoPolinomial]|
 |20 | Mai 19  | Prova 2 (Sábado às 15:00)                        | |
 
 
@@ -95,6 +96,7 @@ Exercícios do Prof. Renato Assunção
 [Lista 9]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista09.pdf
 
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
+[InterpolacaoPolinomial]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoPolinomial.ipynb
 [Notebook PF]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/PontoFlutuante.ipynb
 [Revisao AL]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RevisaoAL.ipynb
 [Fatoracao LU]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/FatoracaoLU.ipynb
