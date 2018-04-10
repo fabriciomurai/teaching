@@ -19,8 +19,8 @@ Horário de monitoria:
 
 Atualizações importantes!
 -------------------------
+ * Lista de exercícios 3 (**Versão parcial 1**) disponível na página.
  * Notas da lista 1 disponíveis [aqui](https://docs.google.com/spreadsheets/d/1JBNt5ETcFQLfBDUVJyC8JDJnn6jJs_tcqGOYpMQ1FUg/edit?usp=sharing)
- * Segunda lista de exercícios disponível na página.
 
 
 Aulas
@@ -56,6 +56,7 @@ Listas de exercícios
 --------------------
  * [Lista SL]: entrega 23/03/2018 via Moodle.
  * [Lista SL2]: entrega 05/04/2018 via Moodle (**atrasos não serão permitidos desta vez**).
+ * [Lista IP]: entrega 26/04/2018 via Moodle.
 
 
 Material Suplementar
@@ -83,6 +84,7 @@ Exercícios do Prof. Renato Assunção
 
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
+[Lista IP]: ../../ancn_slides/lista3.pdf
 [Lista 1]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista01.pdf
 [Gabarito 1]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_01.pdf
 [Lista 2]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista02.pdf
