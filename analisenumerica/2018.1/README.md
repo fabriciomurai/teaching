@@ -44,6 +44,9 @@ Aulas
 |Aula  |  Dia     | Parte II: Interpolação Polinomial e Ajuste de Curvas | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |11 |Abr 10 | Interpolação Polinomial. Polinômio de Lagrange.  | [InterpolacaoPolinomial]|
+|12 |Abr 12 | Polinômio de Netwon.  | [InterpolacaoNewton]|
+|13 |Abr 17 | Erro de truncamento. Escolha de pontos.  | |
+|14 |Abr 19 | Ajuste de curvas.  | |
 |20 | Mai 19  | Prova 2 (Sábado às 15:00)                        | |
 
 
@@ -99,6 +102,7 @@ Exercícios do Prof. Renato Assunção
 
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
 [InterpolacaoPolinomial]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoPolinomial.ipynb
+[InterpolacaoNewton]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoNewton.ipynb
 [Notebook PF]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/PontoFlutuante.ipynb
 [Revisao AL]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RevisaoAL.ipynb
 [Fatoracao LU]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/FatoracaoLU.ipynb
