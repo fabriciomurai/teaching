@@ -19,7 +19,8 @@ Horário de monitoria:
 
 Atualizações importantes!
 -------------------------
- * Lista de exercícios 3 (**Versão parcial 1**) disponível na página.
+ * Trabalho de Programação 1 disponível na página.
+ * Lista de exercícios 3 (**Versão parcial 2**) disponível na página.
  * Notas da lista 1 disponíveis [aqui](https://docs.google.com/spreadsheets/d/1JBNt5ETcFQLfBDUVJyC8JDJnn6jJs_tcqGOYpMQ1FUg/edit?usp=sharing)
 
 
@@ -43,9 +44,9 @@ Aulas
 
 |Aula  |  Dia     | Parte II: Interpolação Polinomial e Ajuste de Curvas | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|11 |Abr 10 | Interpolação Polinomial. Polinômio de Lagrange.  | [InterpolacaoPolinomial]|
+|11 |Abr 10 | Interpolação Polinomial. Polinômio de Lagrange.  | [InterpolacaoPolinomial] [InterpolacaoNewton]|
 |12 |Abr 12 | Polinômio de Netwon.  | [InterpolacaoNewton]|
-|13 |Abr 17 | Erro de truncamento. Escolha de pontos.  | |
+|13 |Abr 17 | Erro de truncamento. Escolha de pontos.  | [ErroTruncamento] |
 |14 |Abr 19 | Ajuste de curvas.  | |
 |20 | Mai 19  | Prova 2 (Sábado às 15:00)                        | |
 
@@ -102,6 +103,7 @@ Exercícios do Prof. Renato Assunção
 
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
 [InterpolacaoPolinomial]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoPolinomial.ipynb
+[ErroTruncamento]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroTruncamento.ipynb
 [InterpolacaoNewton]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoNewton.ipynb
 [Notebook PF]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/PontoFlutuante.ipynb
 [Revisao AL]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RevisaoAL.ipynb
