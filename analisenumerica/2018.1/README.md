@@ -21,7 +21,7 @@ Atualizações importantes!
 -------------------------
  * Trabalho de Programação 1 disponível na página.
  * Lista de exercícios 3 (**Versão parcial 2**) disponível na página.
- * Notas da lista 1 disponíveis [aqui](https://docs.google.com/spreadsheets/d/1JBNt5ETcFQLfBDUVJyC8JDJnn6jJs_tcqGOYpMQ1FUg/edit?usp=sharing)
+ * Notas da Prova 1 disponíveis [aqui](https://docs.google.com/spreadsheets/d/1JBNt5ETcFQLfBDUVJyC8JDJnn6jJs_tcqGOYpMQ1FUg/edit?usp=sharing)
 
 
 Aulas
@@ -54,6 +54,10 @@ Aulas
 |Aula  |  Dia     | Parte III: Integração Numérica, EDOs e Raízes de equações    | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |30 |Jun 16| Prova 3 (Sábado às 10:00)                                           |             |
+
+Trabalhos de Programação
+------------------------
+ * [TP1]: baixar, resolver e entregar até 17/05/2018 via Moodle.
 
 
 Listas de exercícios
@@ -102,6 +106,7 @@ Exercícios do Prof. Renato Assunção
 [Lista 9]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista09.pdf
 
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
+[TP1]:../../ancn_slides/TP1.ipynb
 [InterpolacaoPolinomial]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoPolinomial.ipynb
 [ErroTruncamento]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroTruncamento.ipynb
 [InterpolacaoNewton]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoNewton.ipynb
