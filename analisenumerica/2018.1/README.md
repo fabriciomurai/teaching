@@ -66,6 +66,21 @@ Listas de exercícios
  * [Lista SL2]: entrega 05/04/2018 via Moodle (**atrasos não serão permitidos desta vez**).
  * [Lista IP]: entrega 26/04/2018 via Moodle.
 
+Tutoriais
+---------
+Python:
+
+https://tutorial.djangogirls.org/pt/python_introduction/
+
+Numpy:
+
+http://cs231n.github.io/python-numpy-tutorial/
+https://www.tutorialspoint.com/numpy/index.htm
+
+Anaconda/Jupyter:
+
+https://paulovasconcellos.com.br/como-baixar-anaconda-31fd49c19bd8
+
 
 Material Suplementar
 --------------------
