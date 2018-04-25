@@ -3,25 +3,24 @@
 
 Professor: Fabricio Murai
 
-Turmas: TZ
-
-Local da aula: 1022
-
-Horário: Ter e Qui 9:25 - 11:05
+Turmas:
+ * TB1, Sala 1022, Ter e Qui 9:25 - 11:05
+ * TN1 e TN2, Auditorio I, Ter e Qui 14:55 - 16:35
 
 Horário de monitoria:
 
- * Seg: 7:30 - 9:10 - 2060 (gabrielcalegari at ufmg, monitor oficial)
- * Ter: 18:30 - 20:10 - 2073 (alexandre.a.andrade at hotmail.com)
+ * Seg: 7:30 - 9:10 - 2060 (gabrielcalegari at ufmg, monitor oficial da TB1)
+ * Ter: 18:30 - 20:10 - 2073 (alexandre.a.andrade at hotmail.com, monitor oficial das TN)
  * Qui: 14:50 - 16:30 - 2073 (marcelofaraj at ufmg)
 
 
 
 Atualizações importantes!
 -------------------------
- * Trabalho de Programação 1 disponível na página.
- * Lista de exercícios 3 (**Versão parcial 2**) disponível na página.
- * Notas da Prova 1 disponíveis [aqui](https://docs.google.com/spreadsheets/d/1JBNt5ETcFQLfBDUVJyC8JDJnn6jJs_tcqGOYpMQ1FUg/edit?usp=sharing)
+ * TODAS: Lista sobre Ajuste de Curvas (**Versão parcial 1**) disponível aqui [Lista AC].
+ * TB1: Trabalho de Programação 1 disponível na página.
+ * TB1: Lista de exercícios 3 (**Versão final**) disponível na página.
+ * TB1: Notas da Prova 1 disponíveis [aqui](https://docs.google.com/spreadsheets/d/1JBNt5ETcFQLfBDUVJyC8JDJnn6jJs_tcqGOYpMQ1FUg/edit?usp=sharing)
 
 
 Aulas
@@ -63,6 +62,7 @@ Trabalhos de Programação
 
 Listas de exercícios
 --------------------
+ * [Lista AC]: entrega 16/05/2018 via Moodle.
  * [Lista SL]: entrega 23/03/2018 via Moodle.
  * [Lista SL2]: entrega 05/04/2018 via Moodle (**atrasos não serão permitidos desta vez**).
  * [Lista IP]: entrega 26/04/2018 via Moodle.
@@ -109,6 +109,7 @@ Exercícios do Prof. Renato Assunção
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
 [Lista IP]: ../../ancn_slides/lista3.pdf
+[Lista AC]: ../../ancn_slides/listaAC.pdf
 [Lista 1]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista01.pdf
 [Gabarito 1]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_01.pdf
 [Lista 2]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista02.pdf
