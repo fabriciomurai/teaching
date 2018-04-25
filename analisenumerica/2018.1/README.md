@@ -43,7 +43,7 @@ Aulas
 
 |Aula  |  Dia     | Parte II: Interpolação Polinomial e Ajuste de Curvas | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|11 |Abr 10 | Interpolação Polinomial. Polinômio de Lagrange.  | [InterpolacaoPolinomial] [InterpolacaoNewton]|
+|11 |Abr 10 | Interpolação Polinomial. Polinômio de Lagrange.  | [InterpolacaoPolinomial] [InterpolacaoLagrange]|
 |12 |Abr 12 | Polinômio de Netwon.  | [InterpolacaoNewton]|
 |13 |Abr 17 | Erro de truncamento. Escolha de pontos.  | [ErroTruncamento] |
 |14 |Abr 19 | Ajuste de curvas. Qualidade do ajuste. Mínimos quadrados. Linearizações.  | [AjusteCurvas] |
@@ -127,6 +127,7 @@ Exercícios do Prof. Renato Assunção
 [RegressaoLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RegressaoLinear.ipynb
 [AjusteCurvas]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/AjusteCurvas.ipynb
 [InterpolacaoPolinomial]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoPolinomial.ipynb
+[InterpolacaoLagrange]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoLagrange.ipynb
 [ErroTruncamento]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroTruncamento.ipynb
 [InterpolacaoNewton]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoNewton.ipynb
 [Notebook PF]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/PontoFlutuante.ipynb
