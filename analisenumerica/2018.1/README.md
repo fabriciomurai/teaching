@@ -46,8 +46,12 @@ Aulas
 |11 |Abr 10 | Interpolação Polinomial. Polinômio de Lagrange.  | [InterpolacaoPolinomial] [InterpolacaoLagrange]|
 |12 |Abr 12 | Polinômio de Netwon.  | [InterpolacaoNewton]|
 |13 |Abr 17 | Erro de truncamento. Escolha de pontos.  | [ErroTruncamento] |
-|14 |Abr 19 | Ajuste de curvas. Qualidade do ajuste. Mínimos quadrados. Linearizações.  | [AjusteCurvas] |
+|14 |Abr 19 | Ajuste de curvas. Qualidade do ajuste. Mínimos quadrados.  | [AjusteCurvas] |
 |15 |Abr 24 | Regressão Linear Simples, Múltipla e Polinomial.  | [RegressaoLinear] |
+|16 |Abr 27 | Coeficiente de Determinação. Complexidade. Linearizações.  | Sem notebook, feito no quadro. |
+|17 |Mai 03 | Escolha do Modelo. Validação cruzada. Regularização.  | [SelecaoModelo] |
+|18 |Mai 08 | Decomposição QR.  | |
+|19 |Mai 10 | Aula de revisão.  | |
 |20 | Mai 19  | Prova 2 (Sábado às 15:00)                        | |
 
 
@@ -126,6 +130,7 @@ Exercícios do Prof. Renato Assunção
 [TP1]:../../ancn_slides/TP1.ipynb
 [RegressaoLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RegressaoLinear.ipynb
 [AjusteCurvas]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/AjusteCurvas.ipynb
+[SelecaoModelo]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/SelecaoModelo.ipynb
 [InterpolacaoPolinomial]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoPolinomial.ipynb
 [InterpolacaoLagrange]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoLagrange.ipynb
 [ErroTruncamento]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroTruncamento.ipynb
