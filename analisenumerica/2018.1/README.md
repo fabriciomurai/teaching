@@ -89,6 +89,9 @@ https://paulovasconcellos.com.br/como-baixar-anaconda-31fd49c19bd8
 
 Material Suplementar
 --------------------
+ * "When Pi is not 3.14" (vídeo sobre normas): https://www.youtube.com/watch?v=ineO1tIyPfM
+ * Site interativo sobre regressão linear: http://shiny.estatistica.ccet.ufrn.br/regressao-linear-interativa
+ * Livro colaborativo de Cálculo Numérico da UFRGS (com introdução ao Python): https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/main.html
  * Cálculo Numérico -- Fundamentos e Aplicações. Claudio Hirofume Asano e Eduardo Colli [Livro CN].
  * Numerical Computing with MATLAB. Cleve Moler. SIAM, Philadelphia, 2004 [Numerical MATLAB].
 
