@@ -50,7 +50,7 @@ Aulas
 |15 |Abr 24 | Regressão Linear Simples, Múltipla e Polinomial.  | [RegressaoLinear] |
 |16 |Abr 27 | Coeficiente de Determinação. Complexidade. Linearizações.  | Sem notebook, feito no quadro. |
 |17 |Mai 03 | Escolha do Modelo. Validação cruzada. Regularização.  | [SelecaoModelo] |
-|18 |Mai 08 | Problema de Quadrados Mínimos Linear. Decomposição QR.  | [QuadradosMinimosLinear] |
+|18 |Mai 08 | Problema de Quadrados Mínimos Linear. Decomposição QR.  | [QuadradosMinimosLinear] [QRdecomp] |
 |19 |Mai 10 | Aula de revisão.  | |
 |20 | Mai 19  | Prova 2 (Sábado às 15:00)                        | |
 
@@ -89,6 +89,9 @@ https://paulovasconcellos.com.br/como-baixar-anaconda-31fd49c19bd8
 
 Material Suplementar
 --------------------
+ * [Métodos de decomposição QR por Peter Alfeld](https://pdfs.semanticscholar.org/6b42/3dfa845827ca4dc57f6f1736754e938b9c58.pdf)
+* [Fatoração QR e Decomposição em Valores Singulares](http://www.cs.princeton.edu/courses/archive/fall11/cos323/notes/cos323_f11_lecture09_svd.pdf)
+* [Condicionamento e Estabilidade Numérica por Eric Liu, Yelp](http://web.mit.edu/ehliu/Public/Yelp/conditioning_and_precision.pdf)
  * "When Pi is not 3.14" (vídeo sobre normas): https://www.youtube.com/watch?v=ineO1tIyPfM
  * Site interativo sobre regressão linear: http://shiny.estatistica.ccet.ufrn.br/regressao-linear-interativa
  * Livro colaborativo de Cálculo Numérico da UFRGS (com introdução ao Python): https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/main.html
@@ -164,6 +167,7 @@ Exercícios do Prof. Renato Assunção
 [Aula11]: ../../ancn_slides/A11-GregoryNewton.pdf
 [Aula12]: ../../ancn_slides/A12-ErroInterpolacao.pdf
 [Erros]: ../../ancn_slides/PontoFlutuanteErros.pdf
+[QRdecomp]: ../../ancn_slides/QRdecomp.pdf
 [QuizzTeorico]: ../../ancn_slides/quizz-theory.pdf
 [GabaritoTeorico]: ../../ancn_slides/gabarito-theory.pdf
 [Quizz01]: ../../ancn_slides/quizz01.pdf
