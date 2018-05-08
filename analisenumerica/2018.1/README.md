@@ -17,7 +17,7 @@ Horário de monitoria:
 
 Atualizações importantes!
 -------------------------
- * TODAS: Lista sobre Ajuste de Curvas (**Versão parcial 2**) disponível aqui [Lista AC].
+ * TODAS: Lista sobre Ajuste de Curvas (**Versão final**) disponível aqui [Lista AC].
  * TB1: Trabalho de Programação 1 disponível na página.
  * TB1: Lista de exercícios 3 (**Versão final**) disponível na página.
  * TB1: Notas da Prova 1 disponíveis [aqui](https://docs.google.com/spreadsheets/d/1JBNt5ETcFQLfBDUVJyC8JDJnn6jJs_tcqGOYpMQ1FUg/edit?usp=sharing)
