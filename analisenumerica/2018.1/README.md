@@ -51,12 +51,14 @@ Aulas
 |16 |Abr 27 | Coeficiente de Determinação. Complexidade. Linearizações.  | Sem notebook, feito no quadro. |
 |17 |Mai 03 | Escolha do Modelo. Validação cruzada. Regularização.  | [SelecaoModelo] |
 |18 |Mai 08 | Problema de Quadrados Mínimos Linear. Decomposição QR.  | [QuadradosMinimosLinear] [QRdecomp] |
-|19 |Mai 10 | Aula de revisão.  | |
-|20 | Mai 19  | Prova 2 (Sábado às 15:00)                        | |
+|22 | Mai 19  | Prova 2 (Sábado às 15:00)                        | |
 
 
 |Aula  |  Dia     | Parte III: Integração Numérica, EDOs e Raízes de equações    | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
+|19 |Mai 10 | Integração Numérica. Fórmulas de Newton-Cotes.   | [IntegracaoNumerica] [NewtonCotes] | 
+|20 |Mai 15 | Erro de Integração.  | |
+|21 |Mai 17 | Aula de revisão da Parte II.  | |
 |30 |Jun 16| Prova 3 (Sábado às 10:00)                                           |             |
 
 Trabalhos de Programação
@@ -138,6 +140,8 @@ Exercícios do Prof. Renato Assunção
 [RegressaoLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RegressaoLinear.ipynb
 [AjusteCurvas]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/AjusteCurvas.ipynb
 [SelecaoModelo]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/SelecaoModelo.ipynb
+[IntegracaoNumerica]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/IntegracaoNumerica.ipynb
+[NewtonCotes]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/NewtonCotes.ipynb
 [InterpolacaoPolinomial]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoPolinomial.ipynb
 [InterpolacaoLagrange]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/InterpolacaoLagrange.ipynb
 [ErroTruncamento]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroTruncamento.ipynb
