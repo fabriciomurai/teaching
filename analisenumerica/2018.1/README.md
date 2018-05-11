@@ -17,6 +17,7 @@ Horário de monitoria:
 
 Atualizações importantes!
 -------------------------
+ * TODAS: Lista sobre Integração Numérical (**Versão parcial 1**) disponível aqui [Lista IN].
  * TODAS: Lista sobre Ajuste de Curvas (**Versão final**) disponível aqui [Lista AC].
  * TB1: Trabalho de Programação 1 disponível na página.
  * TB1: Lista de exercícios 3 (**Versão final**) disponível na página.
@@ -68,6 +69,7 @@ Trabalhos de Programação
 
 Listas de exercícios
 --------------------
+ * [Lista IN]: lista sobre Integração Numérica, entrega 29/05/2018 via Moodle.
  * [Lista AC]: entrega 16/05/2018 via Moodle.
  * [Lista SL]: entrega 23/03/2018 via Moodle.
  * [Lista SL2]: entrega 05/04/2018 via Moodle (**atrasos não serão permitidos desta vez**).
@@ -122,6 +124,7 @@ Exercícios do Prof. Renato Assunção
 [Lista SL2]: ../../ancn_slides/lista2.pdf
 [Lista IP]: ../../ancn_slides/lista3.pdf
 [Lista AC]: ../../ancn_slides/listaAC.pdf
+[Lista IN]: ../../ancn_slides/listaIN.pdf
 [Lista 1]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista01.pdf
 [Gabarito 1]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_01.pdf
 [Lista 2]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista02.pdf
