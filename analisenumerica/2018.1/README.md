@@ -17,7 +17,7 @@ Horário de monitoria:
 
 Atualizações importantes!
 -------------------------
- * TODAS: Lista sobre Integração Numérical (**Versão parcial 1**) disponível aqui [Lista IN].
+ * TODAS: Lista sobre Integração Numérica (**Versão parcial 2**) disponível aqui [Lista IN].
  * TODAS: Lista sobre Ajuste de Curvas (**Versão final**) disponível aqui [Lista AC].
  * TB1: Trabalho de Programação 1 disponível na página.
  * TB1: Lista de exercícios 3 (**Versão final**) disponível na página.
