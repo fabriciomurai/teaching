@@ -58,8 +58,9 @@ Aulas
 |Aula  |  Dia     | Parte III: Integração Numérica, EDOs e Raízes de equações    | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |19 |Mai 10 | Integração Numérica. Fórmulas de Newton-Cotes.   | [IntegracaoNumerica] [NewtonCotes] | 
-|20 |Mai 15 | Erro de Integração.  | |
+|20 |Mai 15 | Erro de Integração. Quadratura de Gauss-Legendre.  | [ErroIntegracao] [GaussLegendre]|
 |21 |Mai 17 | Aula de revisão da Parte II.  | |
+|23 |Mai 20 | Quadratura de Gauss-Legendre em [a,b]. Erro de Integração. | [GaussLegendre] |
 |30 |Jun 16| Prova 3 (Sábado às 10:00)                                           |             |
 
 Trabalhos de Programação
@@ -139,6 +140,8 @@ Exercícios do Prof. Renato Assunção
 
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
 [TP1]:../../ancn_slides/TP1.ipynb
+[GaussLegendre]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/GaussLegendre.ipynb
+[ErroIntegracao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroIntegracao.ipynb
 [QuadradosMinimosLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/QuadradosMinimosLinear.ipynb
 [RegressaoLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RegressaoLinear.ipynb
 [AjusteCurvas]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/AjusteCurvas.ipynb
