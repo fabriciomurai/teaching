@@ -61,7 +61,9 @@ Aulas
 |19 |Mai 10 | Integração Numérica. Fórmulas de Newton-Cotes.   | [IntegracaoNumerica] [NewtonCotes] | 
 |20 |Mai 15 | Erro de Integração. Quadratura de Gauss-Legendre.  | [ErroIntegracao] [GaussLegendre]|
 |21 |Mai 17 | Aula de revisão da Parte II.  | |
-|23 |Mai 20 | Quadratura de Gauss-Legendre em [a,b]. Erro de Integração. | [GaussLegendre] |
+|23 |Mai 22 | Quadratura de Gauss-Legendre em [a,b]. Erro de Integração. | [GaussLegendre] |
+|23 |Mai 24 | Apenas TB1: Métodos numéricos para resolução de EDOs. | [EDOs] |
+|   |       | Apenas TN*: Isolamento de raízes de polinômios. | Sem slides |
 |30 |Jun 16| Prova 3 (Sábado às 10:00)                                           |             |
 
 Trabalhos de Programação
@@ -140,6 +142,7 @@ Exercícios do Prof. Renato Assunção
 [Lista 8]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista08.pdf
 [Lista 9]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista09.pdf
 
+[EDOs]:../../ancn_slides/aula-solucao-edo.pdf
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
 [TP2]:../../ancn_slides/TP2.ipynb
 [TP1]:../../ancn_slides/TP1.ipynb
