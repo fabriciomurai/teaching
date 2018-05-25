@@ -17,6 +17,7 @@ Horário de monitoria:
 
 Atualizações importantes!
 -------------------------
+ * TB1: Trabalho de Programação 2 disponível na página.
  * TODAS: Lista sobre Integração Numérica (**Versão parcial 2**) disponível aqui [Lista IN].
  * TODAS: Lista sobre Ajuste de Curvas (**Versão final**) disponível aqui [Lista AC].
  * TB1: Trabalho de Programação 1 disponível na página.
@@ -65,6 +66,7 @@ Aulas
 
 Trabalhos de Programação
 ------------------------
+ * [TP2]: baixar, resolver e entregar até 17/06/2018 via Moodle.
  * [TP1]: baixar, resolver e entregar até 17/05/2018 via Moodle.
 
 
@@ -139,6 +141,7 @@ Exercícios do Prof. Renato Assunção
 [Lista 9]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista09.pdf
 
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
+[TP2]:../../ancn_slides/TP2.ipynb
 [TP1]:../../ancn_slides/TP1.ipynb
 [GaussLegendre]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/GaussLegendre.ipynb
 [ErroIntegracao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroIntegracao.ipynb
