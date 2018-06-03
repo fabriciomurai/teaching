@@ -64,7 +64,11 @@ Aulas
 |23 |Mai 22 | Quadratura de Gauss-Legendre em [a,b]. Erro de Integração. | [GaussLegendre] |
 |23 |Mai 24 | Apenas TB1: Métodos numéricos para resolução de EDOs. | [EDOs] |
 |   |       | Apenas TN*: Isolamento de raízes de polinômios. | Sem slides |
-|30 |Jun 16| Prova 3 (Sábado às 10:00)                                           |             |
+|24 |Jun 05 | Métodos para encontrar zeros de função. Método da Bisseção. Otimização. | [RaizesEquacoes] [Otimização]  |
+|25 |Jun 07 | Métodos baseados em aproximação linear. |   |
+|26 |Jun 10 | Revisão. |   |
+|27 |Jun 12 | Métodos baseados em tangente. |   |
+|28 |Jun 16 | Prova 3 (Sábado às 10:00)                                           |             |
 
 Trabalhos de Programação
 ------------------------
@@ -149,6 +153,8 @@ Exercícios do Prof. Renato Assunção
 [GaussLegendre]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/GaussLegendre.ipynb
 [ErroIntegracao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroIntegracao.ipynb
 [QuadradosMinimosLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/QuadradosMinimosLinear.ipynb
+[RaizesEqucoes]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RaizesEquacoes.ipynb
+[Otimizacao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/MinimosLocais.ipynb
 [RegressaoLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RegressaoLinear.ipynb
 [AjusteCurvas]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/AjusteCurvas.ipynb
 [SelecaoModelo]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/SelecaoModelo.ipynb
