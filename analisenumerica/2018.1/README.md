@@ -17,6 +17,7 @@ Horário de monitoria:
 
 Atualizações importantes!
 -------------------------
+ * TODAS: Lista sobre Raízes de Equações (**Versão parcial 1.0**) disponível aqui [Lista RE].
  * TODAS: Lista sobre Integração Numérica (**Versão final**) disponível aqui [Lista IN].
  * TB1: Trabalho de Programação 2 disponível na página.
  * TODAS: Lista sobre Ajuste de Curvas (**Versão final**) disponível aqui [Lista AC].
@@ -63,7 +64,7 @@ Aulas
 |21 |Mai 17 | Aula de revisão da Parte II.  | |
 |23 |Mai 22 | Quadratura de Gauss-Legendre em [a,b]. Erro de Integração. | [GaussLegendre] |
 |23 |Mai 24 | Apenas TB1: Métodos numéricos para resolução de EDOs. | [EDOs] |
-|   |       | Apenas TN*: Isolamento de raízes de polinômios. | Sem slides |
+|   |       | Apenas TN1-TN2: Isolamento de raízes de polinômios. | Sem slides |
 |24 |Jun 05 | Métodos para encontrar zeros de função. Método da Bisseção. Otimização. | [RaizesEquacoes] [Otimizacao]  |
 |25 |Jun 07 | Métodos baseados em aproximação linear. |   |
 |26 |Jun 10 | Revisão. |   |
@@ -78,6 +79,7 @@ Trabalhos de Programação
 
 Listas de exercícios
 --------------------
+ * [Lista RE]: lista sobre Raízes de Equações, entrega 20/06/2018 via Moodle.
  * [Lista IN]: lista sobre Integração Numérica e (TN: Isolamento de raízes, TB1: EDOs), entrega 05/06/2018 via Moodle.
  * [Lista AC]: entrega 16/05/2018 via Moodle.
  * [Lista SL]: entrega 23/03/2018 via Moodle.
@@ -134,6 +136,7 @@ Exercícios do Prof. Renato Assunção
 [Lista IP]: ../../ancn_slides/lista3.pdf
 [Lista AC]: ../../ancn_slides/listaAC.pdf
 [Lista IN]: ../../ancn_slides/listaIN.pdf
+[Lista RE]: ../../ancn_slides/listaRE.pdf
 [Lista 1]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista01.pdf
 [Gabarito 1]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_01.pdf
 [Lista 2]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista02.pdf
