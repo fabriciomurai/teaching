@@ -17,7 +17,7 @@ Horário de monitoria:
 
 Atualizações importantes!
 -------------------------
- * TODAS: Lista sobre Raízes de Equações (**Versão parcial 1.0**) disponível aqui [Lista RE].
+ * TODAS: Lista sobre Raízes de Equações (**Versão final**) disponível aqui [Lista RE].
  * TODAS: Lista sobre Integração Numérica (**Versão final**) disponível aqui [Lista IN].
  * TB1: Trabalho de Programação 2 disponível na página.
  * TODAS: Lista sobre Ajuste de Curvas (**Versão final**) disponível aqui [Lista AC].
@@ -65,11 +65,13 @@ Aulas
 |23 |Mai 22 | Quadratura de Gauss-Legendre em [a,b]. Erro de Integração. | [GaussLegendre] |
 |23 |Mai 24 | Apenas TB1: Métodos numéricos para resolução de EDOs. | [EDOs] |
 |   |       | Apenas TN1-TN2: Isolamento de raízes de polinômios. | Sem slides |
-|24 |Jun 05 | Métodos para encontrar zeros de função. Método da Bisseção. Otimização. | [RaizesEquacoes] [Otimizacao]  |
-|25 |Jun 07 | Métodos baseados em aproximação linear. |   |
-|26 |Jun 10 | Revisão. |   |
-|27 |Jun 12 | Métodos baseados em tangente. |   |
-|28 |Jun 16 | Prova 3 (Sábado às 10:00)                                           |             |
+|24 |Jun 05 | Métodos para encontrar zeros de função. Método da Bisseção.  | |
+|25 |Jun 07 | Apenas TB1: Métodos das secantes, da regula falsi e de Newton. Convergência. |  |
+|   |       | Apenas TN1-TN2: Métodos das secantes, da regula falsi e Pégaso. Convergência.  |  |
+|26 |Jun 19 | Apenas TB1: Newton multivariado. |  |
+|   |       | Apenas TN1-TN2: Newton. Otimização.  |  |
+|27 |Jun 21 | Revisão. |   |
+|29 |Jun 23 | Prova 3 (Sábado às 10:00)                                           |             |
 
 Trabalhos de Programação
 ------------------------
