@@ -63,13 +63,13 @@ Aulas
 |20 |Mai 15 | Erro de Integração. Quadratura de Gauss-Legendre.  | [ErroIntegracao] [GaussLegendre]|
 |21 |Mai 17 | Aula de revisão da Parte II.  | |
 |23 |Mai 22 | Quadratura de Gauss-Legendre em [a,b]. Erro de Integração. | [GaussLegendre] |
-|23 |Mai 24 | Apenas TB1: Métodos numéricos para resolução de EDOs. | [EDOs] |
-|   |       | Apenas TN1-TN2: Isolamento de raízes de polinômios. | Sem slides |
-|24 |Jun 05 | Métodos para encontrar zeros de função. Método da Bisseção.  | |
-|25 |Jun 07 | Apenas TB1: Métodos das secantes, da regula falsi e de Newton. Convergência. |  |
-|   |       | Apenas TN1-TN2: Métodos das secantes, da regula falsi e Pégaso. Convergência.  |  |
-|26 |Jun 19 | Apenas TB1: Newton multivariado. |  |
-|   |       | Apenas TN1-TN2: Newton. Otimização.  |  |
+|23 |Mai 24 | TB1: Métodos numéricos para resolução de EDOs. | [EDOs] |
+|   |       | TN1-TN2: Isolamento de raízes de polinômios. | Sem slides |
+|24 |Jun 05 | Métodos para encontrar zeros de função. Método da Bisseção.  | [RaizesEquacoes] |
+|25 |Jun 07 | TB1: Métodos das secantes, da regula falsi e de Newton. Convergência. | [BaseadosAproxLinear] |
+|   |       | TN1-TN2: Métodos das secantes, da regula falsi e Pégaso e de Newton.  | [BaseadosTangente] |
+|26 |Jun 19 | TB1: Newton multivariado. |  |
+|   |       | TN1-TN2: Convergência. Otimização.  |  |
 |27 |Jun 21 | Revisão. |   |
 |29 |Jun 23 | Prova 3 (Sábado às 10:00)                                           |             |
 
@@ -159,6 +159,8 @@ Exercícios do Prof. Renato Assunção
 [ErroIntegracao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroIntegracao.ipynb
 [QuadradosMinimosLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/QuadradosMinimosLinear.ipynb
 [RaizesEquacoes]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RaizesEquacoes.ipynb
+[BaseadosAproxLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/BaseadosAproxLinear.ipynb
+[BaseadosTangente]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/BaseadosTangente.ipynb
 [Otimizacao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/MinimosLocais.ipynb
 [RegressaoLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/RegressaoLinear.ipynb
 [AjusteCurvas]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/AjusteCurvas.ipynb
