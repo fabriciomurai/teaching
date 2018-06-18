@@ -75,7 +75,7 @@ Aulas
 
 Trabalhos de Programação
 ------------------------
- * [TP2]: baixar, resolver e entregar até 17/06/2018 via Moodle.
+ * [TP2]: baixar, resolver e entregar até 24/06/2018 via Moodle.
  * [TP1]: baixar, resolver e entregar até 17/05/2018 via Moodle.
 
 
