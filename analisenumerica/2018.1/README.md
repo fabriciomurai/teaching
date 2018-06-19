@@ -68,7 +68,7 @@ Aulas
 |24 |Jun 05 | Métodos para encontrar zeros de função. Método da Bisseção.  | [RaizesEquacoes] |
 |25 |Jun 07 | TB1: Métodos das secantes, da regula falsi e de Newton. Convergência. | [BaseadosAproxLinear] |
 |   |       | TN1-TN2: Métodos das secantes, da regula falsi e Pégaso e de Newton.  | [BaseadosTangente] |
-|26 |Jun 19 | TB1: Newton multivariado. |  |
+|26 |Jun 19 | TB1: Newton multivariado. | [Otimizacao]  |
 |   |       | TN1-TN2: Convergência. Otimização.  |  |
 |27 |Jun 21 | Revisão. |   |
 |29 |Jun 23 | Prova 3 (Sábado às 10:00)                                           |             |
@@ -155,6 +155,7 @@ Exercícios do Prof. Renato Assunção
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
 [TP2]:../../ancn_slides/TP2.ipynb
 [TP1]:../../ancn_slides/TP1.ipynb
+[Otimizacao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/MinimosLocais.ipynb
 [GaussLegendre]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/GaussLegendre.ipynb
 [ErroIntegracao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroIntegracao.ipynb
 [QuadradosMinimosLinear]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/QuadradosMinimosLinear.ipynb
