@@ -68,7 +68,7 @@ Aulas
 |24 |Jun 05 | Métodos para encontrar zeros de função. Método da Bisseção.  | [RaizesEquacoes] |
 |25 |Jun 07 | TB1: Métodos das secantes, da regula falsi e de Newton. Convergência. | [BaseadosAproxLinear] |
 |   |       | TN1-TN2: Métodos das secantes, da regula falsi e Pégaso e de Newton.  | [BaseadosTangente] |
-|26 |Jun 19 | TB1: Newton multivariado. | [Otimizacao]  |
+|26 |Jun 19 | TB1: Newton multivariado. | [Otimizacao] [Otimizacao 1] [Otimizacao 2]  |
 |   |       | TN1-TN2: Convergência. Otimização.  |  |
 |27 |Jun 21 | Revisão. |   |
 |29 |Jun 23 | Prova 3 (Sábado às 10:00)                                           |             |
@@ -153,6 +153,8 @@ Exercícios do Prof. Renato Assunção
 
 [EDOs]:../../ancn_slides/aula-solucao-edo.pdf
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
+[Otimizacao 1]:../../ancn_slides/raizes-otimizacao.pdf
+[Otimizacao 2]:../../ancn_slides/raizes-otimizacao03.pdf
 [TP2]:../../ancn_slides/TP2.ipynb
 [TP1]:../../ancn_slides/TP1.ipynb
 [Otimizacao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/MinimosLocais.ipynb
