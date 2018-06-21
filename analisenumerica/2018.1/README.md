@@ -71,7 +71,7 @@ Aulas
 |26 |Jun 19 | TB1: Newton multivariado. | [Otimizacao] [Otimizacao 1] [Otimizacao 2]  |
 |   |       | TN1-TN2: Convergência. Otimização.  |  |
 |27 |Jun 21 | Revisão. |   |
-|29 |Jun 23 | Prova 3 (Sábado às 10:00)                                           |             |
+|29 |Jun 23 | Prova 3 (Sábado às 13:00, TN1: 1022, TN2: 1015, TB1: 1014)                                           |             |
 
 Trabalhos de Programação
 ------------------------
