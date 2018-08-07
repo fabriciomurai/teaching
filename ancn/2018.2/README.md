@@ -24,42 +24,42 @@ Aulas
 
 |Aula  |  Dia     | Parte I: Sistemas Numéricos e Sistemas lineares | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|01|Ago 07| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros]|
-|02|Ago 09| Aritmética de Ponto Flutuante. Revisão de AL. | [Erros] [Notebook PF] [Revisao AL]|
-|03|Ago 14| Revisão de AL. Eliminação de Gauss. | [Revisao AL] |
-|04|Ago 16| Decomposição LU. Backward stability. | [Fatoracao LU] |
-|05|Ago 21| Decomposição Cholesky. Modelagem de tópicos. | [Cholesky] [SVD] |
-|06|Ago 23| SVD. Uso da Decomposição. | [SVD] [UsoDecomposicao] |
-|07|Ago 28| Decomposição Espectral. | [DecomposicaoEspectral]|
-|08|Ago 30| Numero de condição. Pagerank. | [DecomposicaoEspectral] [NumeroCondicao] |
+|01|Ago 07| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros] [Notebook PF]|
+|02|Ago 09| Introdução Python. Revisão de AL. | [Revisao AL]|
+|03|Ago 14| Sistemas triangulares. Eliminação de Gauss. |   |
+|04|Ago 16| Uso da Decomposição. | [UsoDecomposicao] |
+|05|Ago 21| Decomposição LU. | [Fatoracao LU] |
+|06|Ago 23| Decomposição LU. | [Fatoracao LU] |
+|07|Ago 28| Decomposição de Cholesky. | [Cholesky]|
+|08|Ago 30| Análise do erro na solução de sistemas. | [NumeroCondicao] |
 |09|Set 01| Prova 1 (Sábado às ??:00) | |
 
 |Aula  |  Dia     | Parte II: Interp. Polinomial, Ajuste de Curvas | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |10 | Set 04 | Interpolação Polinomial. Polinômio de Lagrange.  | [InterpolacaoPolinomial] [InterpolacaoLagrange]|
 |11 | Set 06 | Polinômio de Netwon.  | [InterpolacaoNewton]|
-|12 | Set 11 | Erro de truncamento. Escolha de pontos.  | [ErroTruncamento] |
-|13 | Set 13 | Ajuste de curvas. Qualidade do ajuste. Mínimos quadrados.  | [AjusteCurvas] |
-|14 | Set 18 | Regressão Linear Simples, Múltipla e Polinomial.  | [RegressaoLinear] |
-|15 | Set 20 | Coeficiente de Determinação. Complexidade. Linearizações.  | Sem notebook, feito no quadro. |
-|16 | Set 25 | Escolha do Modelo. Validação cruzada. Regularização.  | [SelecaoModelo] |
-|17 | Set 27 | Problema de Quadrados Mínimos Linear. Decomposição QR.  | [QuadradosMinimosLinear] [QRdecomp] |
+|12 | Set 11 | Polinômio de Gregory-Newton.  | |
+|13 | Set 13 | Escolha de pontos. Erro de truncamento.  |  [ErroTruncamento] |
+|14 | Set 18 | Regressão Linear Simples.  | [AjusteCurvas] [RegressaoLinear] |
+|15 | Set 20 | Qualidade do ajuste.  | Sem notebook, feito no quadro. |
+|16 | Set 25 | Regressão Linear Múltipla.  | [SelecaoModelo] |
+|17 | Set 27 | Ajuste via decomposição em valores singulares.  | [QuadradosMinimosLinear] [QRdecomp] |
 |18 | Set 29  | Prova 2 (Sábado às ??:00)                        | |
 
 
 |Aula  |  Dia     | Parte III: Integração Numérica e Raízes de equações    | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |19 |Out 02| Integração Numérica. Fórmulas de Newton-Cotes.   | [IntegracaoNumerica] [NewtonCotes] | 
-|20 |Out 04| Erro de Integração. Quadratura de Gauss-Legendre.  | [ErroIntegracao] [GaussLegendre]|
-|21 |Out 09| Aula de revisão da Parte II.  | |
-|22 |Out 11| Quadratura de Gauss-Legendre em [a,b]. Erro de Integração. | [GaussLegendre] |
-|23 |Out 16 | TN1-TN2: Isolamento de raízes de polinômios. | Sem slides |
-|24 |Out 18 | Métodos para encontrar zeros de função. Método da Bisseção.  | [RaizesEquacoes] |
-|25 |Out 23 | TN1-TN2: Métodos das secantes, da regula falsi e Pégaso e de Newton.  | [BaseadosTangente] |
-|26 |Out 25 | TN1-TN2: Convergência. Otimização.  |  |
-|27 |Out 30 | Revisão. |   |
-|28| Nov 1 |  |             |
-|29| Nov 6 |  |             |
+|20 |Out 04| Erro de Integração de Newton-Cotes.  | [ErroIntegracao]|
+|21 |Out 09|  Quadratura de Gauss-Legendre.  |  [GaussLegendre]|
+|22 |Out 11| Erro de Integração de Gauss-Legendre. | [GaussLegendre] |
+|23 |Out 16 | Isolamento de raízes de polinômios. | Sem slides |
+|24 |Out 18 | Isolamento de raízes.  | [RaizesEquacoes] |
+|25 |Out 23 | Método da bisseção  | [BaseadosTangente] |
+|26 |Out 25 | Métodos baseados em aperoximação Linear.  |  |
+|27 |Out 30 | Métodos baseados em aperoximação Linear. |   |
+|28| Nov 1 | Métodos baseados em tangente. |             |
+|29| Nov 6 | Compração dos métodos. |             |
 |30| Nov 10 | Prova 3 (Sábado às ??:00)                                           |             |
 
 Trabalhos de Programação
