@@ -15,7 +15,7 @@ Horários de monitoria (a definir):
 
 Atualizações importantes!
 -------------------------
- * Nenhuma por enquanto!
+ * 07/08: Primeiro exercício da Lista 1 disponível aqui [Lista 01]
 
 Aulas
 -----
@@ -24,7 +24,7 @@ Aulas
 
 |Aula  |  Dia     | Parte I: Sistemas Numéricos e Sistemas lineares | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|01|Ago 07| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros] [Notebook PF] [Lista 01]|
+|01|Ago 07| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros] [Notebook PF] |
 |02|Ago 09| Introdução Python. Revisão de AL. | [Revisao AL]|
 |03|Ago 14| Sistemas triangulares. Eliminação de Gauss. |   |
 |04|Ago 16| Uso da Decomposição. | [UsoDecomposicao] |
@@ -69,7 +69,7 @@ Trabalhos de Programação
 
 Listas de exercícios
 --------------------
- * [Lista ??]: entrega [data] via Moodle.
+ * [Lista 01]: entrega 14/08/2018 via Moodle.
 
 Tutoriais
 ---------
