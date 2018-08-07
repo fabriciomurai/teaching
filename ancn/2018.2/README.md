@@ -24,7 +24,7 @@ Aulas
 
 |Aula  |  Dia     | Parte I: Sistemas Numéricos e Sistemas lineares | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
-|01|Ago 07| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros] [Notebook PF]|
+|01|Ago 07| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros] [Notebook PF] [Lista 01]|
 |02|Ago 09| Introdução Python. Revisão de AL. | [Revisao AL]|
 |03|Ago 14| Sistemas triangulares. Eliminação de Gauss. |   |
 |04|Ago 16| Uso da Decomposição. | [UsoDecomposicao] |
@@ -116,6 +116,7 @@ Exercícios do Prof. Renato Assunção
  * [Lista 8]
  * [Lista 9]
 
+[Lista 01]: ../../ancn_slides/semana1.pdf
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
 [Lista IP]: ../../ancn_slides/lista3.pdf
