@@ -25,7 +25,7 @@ Aulas
 |Aula  |  Dia     | Parte I: Sistemas Numéricos e Sistemas lineares | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |01|Ago 07| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros] [Notebook PF] |
-|02|Ago 09| Introdução Python. Revisão de AL. | [Revisao AL]|
+|02|Ago 09| Introdução Python. Revisão de AL. | [Python intro] [Revisao AL]|
 |03|Ago 14| Sistemas triangulares. Eliminação de Gauss. |   |
 |04|Ago 16| Uso da Decomposição. | [UsoDecomposicao] |
 |05|Ago 21| Decomposição LU. | [Fatoracao LU] |
@@ -141,6 +141,7 @@ Exercícios do Prof. Renato Assunção
 [Otimizacao 2]:../../ancn_slides/raizes-otimizacao03.pdf
 [TP2]:../../ancn_slides/TP2.ipynb
 [TP1]:../../ancn_slides/TP1.ipynb
+[Python intro]:https://nbviewer.jupyter.org/github/data-8/stat89a/blob/gh-pages/MatricesAndGraphsNB1.ipynb
 [Otimizacao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/MinimosLocais.ipynb
 [GaussLegendre]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/GaussLegendre.ipynb
 [ErroIntegracao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/ErroIntegracao.ipynb
