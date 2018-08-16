@@ -15,7 +15,8 @@ Horários de monitoria (a definir):
 
 Atualizações importantes!
 -------------------------
- * 07/08: Primeiro exercício da Lista 1 disponível aqui [Lista 01]
+ * 14/08: Lista 2 disponível aqui [Lista 02]
+ * 07/08: Lista 1 disponível aqui [Lista 01]
 
 Aulas
 -----
@@ -70,6 +71,7 @@ Trabalhos de Programação
 Listas de exercícios
 --------------------
  * [Lista 01]: entrega 14/08/2018 via Moodle.
+ * [Lista 02]: entrega 21/08/2018 via Moodle.
 
 Tutoriais
 ---------
@@ -117,6 +119,7 @@ Exercícios do Prof. Renato Assunção
  * [Lista 9]
 
 [Lista 01]: ../../ancn_slides/semana1.pdf
+[Lista 02]: ../../ancn_slides/semana2.pdf
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
 [Lista IP]: ../../ancn_slides/lista3.pdf
