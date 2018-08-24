@@ -15,6 +15,7 @@ Horários de monitoria (a definir):
 
 Atualizações importantes!
 -------------------------
+ * 21/08: Lista 3 disponível aqui [Lista 03]
  * 14/08: Lista 2 disponível aqui [Lista 02]
  * 07/08: Lista 1 disponível aqui [Lista 01]
 
@@ -26,10 +27,10 @@ Aulas
 |Aula  |  Dia     | Parte I: Sistemas Numéricos e Sistemas lineares | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
 |01|Ago 07| Apresentação da disciplina. Sistemas Numéricos.  | [Apresentacao] [Erros] [Notebook PF] |
-|02|Ago 09| Introdução Python. Revisão de AL. | [Python intro] [Revisao AL]|
-|03|Ago 14| Sistemas triangulares. Eliminação de Gauss. |   |
-|04|Ago 16| Uso da Decomposição. | [UsoDecomposicao] |
-|05|Ago 21| Decomposição LU. | [Fatoracao LU] |
+|02|Ago 09| Introdução Python. | [Python intro]|
+|03|Ago 14| Revisão de AL. Sistemas triangulares. |  [Revisao AL] |
+|04|Ago 16| Eliminação de Gauss. Contagem de Operações. | |
+|05|Ago 21| Uso da Decomposição. | [UsoDecomposicao] |
 |06|Ago 23| Decomposição LU. | [Fatoracao LU] |
 |07|Ago 28| Decomposição de Cholesky. | [Cholesky]|
 |08|Ago 30| Análise do erro na solução de sistemas. | [NumeroCondicao] |
@@ -72,6 +73,7 @@ Listas de exercícios
 --------------------
  * [Lista 01]: entrega 14/08/2018 via Moodle.
  * [Lista 02]: entrega 21/08/2018 via Moodle.
+ * [Lista 03]: entrega 28/08/2018 via Moodle.
 
 Tutoriais
 ---------
@@ -120,6 +122,7 @@ Exercícios do Prof. Renato Assunção
 
 [Lista 01]: ../../ancn_slides/semana1.pdf
 [Lista 02]: ../../ancn_slides/semana2.pdf
+[Lista 03]: ../../ancn_slides/semana3.pdf
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
 [Lista IP]: ../../ancn_slides/lista3.pdf
