@@ -15,6 +15,8 @@ Horários de monitoria (a definir):
 
 Atualizações importantes!
 -------------------------
+ * 24/08: Lista 4-2 disponível aqui [Lista 04-2]
+ * 24/08: Lista 4-1 disponível aqui [Lista 04-1]
  * 21/08: Lista 3 disponível aqui [Lista 03]
  * 14/08: Lista 2 disponível aqui [Lista 02]
  * 07/08: Lista 1 disponível aqui [Lista 01]
@@ -34,7 +36,7 @@ Aulas
 |06|Ago 23| Decomposição LU. | [Fatoracao LU] |
 |07|Ago 28| Decomposição de Cholesky. | [Cholesky]|
 |08|Ago 30| Análise do erro na solução de sistemas. | [NumeroCondicao] |
-|09|Set 01| Prova 1 (Sábado às ??:00) | |
+|09|Set 01| Prova 1 (Sábado às 10:00, Sala ??) | |
 
 |Aula  |  Dia     | Parte II: Interp. Polinomial, Ajuste de Curvas | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -46,7 +48,7 @@ Aulas
 |15 | Set 20 | Qualidade do ajuste.  | Sem notebook, feito no quadro. |
 |16 | Set 25 | Regressão Linear Múltipla.  | [SelecaoModelo] |
 |17 | Set 27 | Ajuste via decomposição em valores singulares.  | [QuadradosMinimosLinear] [QRdecomp] |
-|18 | Set 29  | Prova 2 (Sábado às ??:00)                        | |
+|18 | Set 29  | Prova 2 (Sábado às 10:00, Sala ??)                        | |
 
 
 |Aula  |  Dia     | Parte III: Integração Numérica e Raízes de equações    | Link Slides |
@@ -62,7 +64,7 @@ Aulas
 |27 |Out 30 | Métodos baseados em aperoximação Linear. |   |
 |28| Nov 1 | Métodos baseados em tangente. |             |
 |29| Nov 6 | Compração dos métodos. |             |
-|30| Nov 10 | Prova 3 (Sábado às ??:00)                                           |             |
+|30| Nov 10 | Prova 3 (Sábado às 10:00, Sala ??)                                           |             |
 
 Trabalhos de Programação
 ------------------------
@@ -74,6 +76,8 @@ Listas de exercícios
  * [Lista 01]: entrega 14/08/2018 via Moodle.
  * [Lista 02]: entrega 21/08/2018 via Moodle.
  * [Lista 03]: entrega 28/08/2018 via Moodle.
+ * [Lista 04-1]: entrega 30/08/2018 via Moodle.
+ * [Lista 04-2]: entrega 04/09/2018 via Moodle.
 
 Tutoriais
 ---------
@@ -123,6 +127,8 @@ Exercícios do Prof. Renato Assunção
 [Lista 01]: ../../ancn_slides/semana1.pdf
 [Lista 02]: ../../ancn_slides/semana2.pdf
 [Lista 03]: ../../ancn_slides/semana3.pdf
+[Lista 04-1]: ../../ancn_slides/semana4-1.pdf
+[Lista 04-2]: ../../ancn_slides/semana4-2.pdf
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
 [Lista IP]: ../../ancn_slides/lista3.pdf
