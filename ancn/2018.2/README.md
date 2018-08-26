@@ -7,9 +7,12 @@ Turmas:
  * Cálculo Numerico TB1 (Fabricio) + TB3 (Sebastián), Auditório II, Ter e Qui 9:25 - 11:05
  * Análise Numérica TN1 (Fabricio) + TN2 (Frederico), Auditorio I, Ter e Qui 14:55 - 16:35
 
-Horários de monitoria (a definir):
+Horários de monitoria (emails dos monitores no Gmail):
 
- * Dia da semana: Horário - Local (email, monitor oficial?)
+ * SEG: 13:00 - Local (a definir)
+ * TER: 19:00 - Local (diegojonathanheer)
+ * QUA: 17:00 - Local (alexandre.andrade095, monitor oficial TN1+TN2)
+ * QUI: 17:00 - Local (raulnasccunha, monitor oficial TB1+TB3)
 
 
 
