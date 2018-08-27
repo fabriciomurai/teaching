@@ -7,14 +7,19 @@ Turmas:
  * Cálculo Numerico TB1 (Fabricio) + TB3 (Sebastián), Auditório II, Ter e Qui 9:25 - 11:05
  * Análise Numérica TN1 (Fabricio) + TN2 (Frederico), Auditorio I, Ter e Qui 14:55 - 16:35
 
-Horários de monitoria (a definir):
+Horários de monitoria (emails dos monitores no Gmail):
 
- * Dia da semana: Horário - Local (email, monitor oficial?)
+ * SEG: 13:00 - Local (a definir)
+ * TER: 19:00 - Local (diegojonathanheer)
+ * QUA: 17:00 - Local (alexandre.andrade095, monitor oficial TN1+TN2)
+ * QUI: 17:00 - Local (raulnasccunha, monitor oficial TB1+TB3)
 
 
 
 Atualizações importantes!
 -------------------------
+ * 24/08: Lista 4-2 disponível aqui [Lista 04-2]
+ * 24/08: Lista 4-1 disponível aqui [Lista 04-1]
  * 21/08: Lista 3 disponível aqui [Lista 03]
  * 14/08: Lista 2 disponível aqui [Lista 02]
  * 07/08: Lista 1 disponível aqui [Lista 01]
@@ -74,6 +79,8 @@ Listas de exercícios
  * [Lista 01]: entrega 14/08/2018 via Moodle.
  * [Lista 02]: entrega 21/08/2018 via Moodle.
  * [Lista 03]: entrega 28/08/2018 via Moodle.
+ * [Lista 04-1]: entrega 30/08/2018 via Moodle.
+ * [Lista 04-2]: entrega 04/09/2018 via Moodle.
 
 Tutoriais
 ---------
@@ -123,6 +130,8 @@ Exercícios do Prof. Renato Assunção
 [Lista 01]: ../../ancn_slides/semana1.pdf
 [Lista 02]: ../../ancn_slides/semana2.pdf
 [Lista 03]: ../../ancn_slides/semana3.pdf
+[Lista 04-1]: ../../ancn_slides/semana4-1.pdf
+[Lista 04-2]: ../../ancn_slides/semana4-2.pdf
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
 [Lista IP]: ../../ancn_slides/lista3.pdf
