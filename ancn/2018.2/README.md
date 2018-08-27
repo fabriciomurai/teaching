@@ -9,10 +9,10 @@ Turmas:
 
 Horários de monitoria (emails dos monitores no Gmail):
 
- * SEG: 13:00 - Local (a definir)
- * TER: 19:00 - Local (diegojonathanheer)
- * QUA: 17:00 - Local (alexandre.andrade095, monitor oficial TN1+TN2)
- * QUI: 17:00 - Local (raulnasccunha, monitor oficial TB1+TB3)
+ * SEG: 13:00 - Sala 2006 (matheus.giacometto)
+ * TER: 19:00 - Sala 2006 (diegojonathanheer)
+ * QUA: 17:00 - Sala 2006 (alexandre.andrade095, monitor oficial TN1+TN2)
+ * QUI: 17:00 - Sala 2009 (raulnasccunha, monitor oficial TB1+TB3)
 
 
 
