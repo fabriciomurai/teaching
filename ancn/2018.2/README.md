@@ -41,7 +41,8 @@ Aulas
 |06|Ago 23| Decomposição LU. | [Fatoracao LU] |
 |07|Ago 28| Decomposição de Cholesky. | [Cholesky]|
 |08|Ago 30| Análise do erro na solução de sistemas. | [NumeroCondicao] |
-|09|Set 01| Prova 1 (Sábado 10:00, Salas 1019(TB1), 1011(TB3), 1018(TN1), 1016(TN3)) | |
+|09|Set 01| Prova 1  | |
+||| Sábado 10am, Salas 1019(TB1), 1011(TB3), 1018(TN1), 1016(TN2) | |
 
 |Aula  |  Dia     | Parte II: Interp. Polinomial, Ajuste de Curvas | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
@@ -53,7 +54,8 @@ Aulas
 |15 | Set 20 | Qualidade do ajuste.  | Sem notebook, feito no quadro. |
 |16 | Set 25 | Regressão Linear Múltipla.  | [SelecaoModelo] |
 |17 | Set 27 | Ajuste via decomposição em valores singulares.  | [QuadradosMinimosLinear] [QRdecomp] |
-|18|Set 29| Prova 2 (Sábado 10:00, Salas 1019(TB1), 1011(TB3), 1018(TN1), 1016(TN3)) | |
+|18|Set 29| Prova 2  | |
+||| Sábado 10am, Salas 1019(TB1), 1011(TB3), 1018(TN1), 1016(TN2) | |
 
 
 |Aula  |  Dia     | Parte III: Integração Numérica e Raízes de equações    | Link Slides |
@@ -69,7 +71,8 @@ Aulas
 |27 |Out 30 | Métodos baseados em aperoximação Linear. |   |
 |28| Nov 1 | Métodos baseados em tangente. |             |
 |29| Nov 6 | Compração dos métodos. |             |
-|30|Nov 10| Prova 3 (Sábado 10:00, Salas 1019(TB1), 1011(TB3), 1018(TN1), 1016(TN3)) | |
+|30|Nov 10| Prova 3  | |
+||| Sábado 10am, Salas 1019(TB1), 1011(TB3), 1018(TN1), 1016(TN2) | |
 
 Trabalhos de Programação (Apenas para TN1-TN2)
 ---------------------------------------------
