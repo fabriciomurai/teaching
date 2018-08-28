@@ -41,8 +41,8 @@ Aulas
 |06|Ago 23| Decomposição LU. | [Fatoracao LU] |
 |07|Ago 28| Decomposição de Cholesky. | [Cholesky]|
 |08|Ago 30| Análise do erro na solução de sistemas. | [NumeroCondicao] |
-|09|Set 01| Prova 1 - Sábado 10am| |
-||| Salas 1019(TB1), 1011(TB3), 1018(TN1), 1016(TN2) | |
+|09|Set 01| Prova 1 - Sábado 10am. Salas:| |
+||| 1019(TB1), 1011(TB3), 1018(TN1), 1016(TN2 - De A a N), 1015(TN2 - De P a W) | |
 
 |Aula  |  Dia     | Parte II: Interp. Polinomial, Ajuste de Curvas | Link Slides |
 |------|----------|--------------------------------------------------------------|-------------|
