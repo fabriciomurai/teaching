@@ -5,7 +5,7 @@ Professor: Fabricio Murai
 
 Turmas:
  * Cálculo Numerico TB1 (Fabricio) + TB3 (Sebastián), Auditório II, Ter e Qui 9:25 - 11:05
- * Análise Numérica TN1 (Fabricio) + TN2 (Frederico), Auditorio I, Ter e Qui 14:55 - 16:35
+ * Análise Numérica TN1 (Fabricio) + TN2 (Frederico), **Auditorio II**, Ter e Qui 14:55 - 16:35
 
 Horários de monitoria (emails dos monitores no Gmail):
 
