@@ -18,6 +18,7 @@ Horários de monitoria (emails dos monitores no Gmail):
 
 Atualizações importantes!
 -------------------------
+ * 03/09: Lista 5 disponível aqui [Lista 05]
  * 28/08: TP disponível (apenas para TN1-TN2)
  * 27/08: Informações sobre monitoria e provas
  * 24/08: Lista 4-2 disponível aqui [Lista 04-2]
@@ -54,7 +55,7 @@ Aulas
 |16 | Set 25 | Regressão Linear Múltipla.  | [SelecaoModelo] |
 |17 | Set 27 | Ajuste via decomposição em valores singulares.  | [QuadradosMinimosLinear] [QRdecomp] |
 |18|Set 29| Prova 2 - Sábado 10am. Salas: | |
-||| 1018(TB1), 1011(TB3), 1019(TN1), 1016(TN2) | |
+||| 1018(TB1), 1011(TB3), 1019(TN1), ???(TN2) | |
 
 
 |Aula  |  Dia     | Parte III: Integração Numérica e Raízes de equações    | Link Slides |
@@ -71,7 +72,7 @@ Aulas
 |28| Nov 1 | Métodos baseados em tangente. |             |
 |29| Nov 6 | Compração dos métodos. |             |
 |30|Nov 10| Prova 3 - Sábado 10am. Salas| |
-||| 1018(TB1), 1011(TB3), 1019(TN1), 1016(TN2) | |
+||| 1018(TB1), 1011(TB3), 1019(TN1), ???(TN2) | |
 
 Trabalhos de Programação (Apenas para TN1-TN2)
 ---------------------------------------------
@@ -85,6 +86,7 @@ Listas de exercícios
  * [Lista 03]: entrega 28/08/2018 via Moodle.
  * [Lista 04-1]: entrega 30/08/2018 via Moodle.
  * [Lista 04-2]: entrega 04/09/2018 via Moodle.
+ * [Lista 05]: entrega 11/09/2018 via Moodle.
 
 Tutoriais
 ---------
@@ -136,6 +138,7 @@ Exercícios do Prof. Renato Assunção
 [Lista 03]: ../../ancn_slides/semana3.pdf
 [Lista 04-1]: ../../ancn_slides/semana4-1.pdf
 [Lista 04-2]: ../../ancn_slides/semana4-2.pdf
+[Lista 05]: ../../ancn_slides/semana5.pdf
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
 [Lista IP]: ../../ancn_slides/lista3.pdf
