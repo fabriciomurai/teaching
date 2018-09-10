@@ -18,14 +18,8 @@ Horários de monitoria (emails dos monitores no Gmail):
 
 Atualizações importantes!
 -------------------------
+ * 10/09: Lista 5 disponível aqui [Lista 06]
  * 03/09: Lista 5 disponível aqui [Lista 05]
- * 28/08: TP disponível (apenas para TN1-TN2)
- * 27/08: Informações sobre monitoria e provas
- * 24/08: Lista 4-2 disponível aqui [Lista 04-2]
- * 24/08: Lista 4-1 disponível aqui [Lista 04-1]
- * 21/08: Lista 3 disponível aqui [Lista 03]
- * 14/08: Lista 2 disponível aqui [Lista 02]
- * 07/08: Lista 1 disponível aqui [Lista 01]
 
 Aulas
 -----
@@ -48,7 +42,7 @@ Aulas
 |------|----------|--------------------------------------------------------------|-------------|
 |10 | Set 04 | Interpolação Polinomial. Polinômio de Lagrange.  | [InterpolacaoPolinomial] [InterpolacaoLagrange]|
 |11 | Set 06 | Polinômio de Netwon.  | [InterpolacaoNewton]|
-|12 | Set 11 | Polinômio de Gregory-Newton.  | |
+|12 | Set 11 | Implementações e complexidade.  | |
 |13 | Set 13 | Escolha de pontos. Erro de truncamento.  |  [ErroTruncamento] |
 |14 | Set 18 | Regressão Linear Simples.  | [AjusteCurvas] [RegressaoLinear] |
 |15 | Set 20 | Qualidade do ajuste.  | Sem notebook, feito no quadro. |
@@ -87,6 +81,7 @@ Listas de exercícios
  * [Lista 04-1]: entrega 30/08/2018 via Moodle.
  * [Lista 04-2]: entrega 04/09/2018 via Moodle.
  * [Lista 05]: entrega 11/09/2018 via Moodle.
+ * [Lista 06]: entrega 18/09/2018 via Moodle.
 
 Tutoriais
 ---------
@@ -139,6 +134,7 @@ Exercícios do Prof. Renato Assunção
 [Lista 04-1]: ../../ancn_slides/semana4-1.pdf
 [Lista 04-2]: ../../ancn_slides/semana4-2.pdf
 [Lista 05]: ../../ancn_slides/semana5.pdf
+[Lista 06]: ../../ancn_slides/semana6.pdf
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
 [Lista IP]: ../../ancn_slides/lista3.pdf
