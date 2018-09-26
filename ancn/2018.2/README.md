@@ -18,6 +18,7 @@ Horários de monitoria (emails dos monitores no Gmail):
 
 Atualizações importantes!
 -------------------------
+ * 26/09: Trabalho Prático 2 disponível aqui [TP2]
  * 10/09: Lista 5 disponível aqui [Lista 06]
  * 03/09: Lista 5 disponível aqui [Lista 05]
 
@@ -70,6 +71,7 @@ Aulas
 
 Trabalhos de Programação (Apenas para TN1-TN2)
 ---------------------------------------------
+ * [TP2]: entrega 09/10/2018 via Moodle.
  * [TP1]: entrega 09/09/2018 via Moodle.
 
 
@@ -157,7 +159,7 @@ Exercícios do Prof. Renato Assunção
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
 [Otimizacao 1]:../../ancn_slides/raizes-otimizacao.pdf
 [Otimizacao 2]:../../ancn_slides/raizes-otimizacao03.pdf
-[TP2]:../../ancn_slides/TP2.ipynb
+[TP2]:../../ancn_slides/20182-TP2.ipynb
 [TP1]:../../ancn_slides/20182-TP1.ipynb
 [Python intro]:https://nbviewer.jupyter.org/github/data-8/stat89a/blob/gh-pages/MatricesAndGraphsNB1.ipynb
 [Otimizacao]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/MinimosLocais.ipynb
