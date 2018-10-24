@@ -71,6 +71,7 @@ Aulas
 
 Trabalhos de Programação (Apenas para TN1-TN2)
 ---------------------------------------------
+ * [TP3]: entrega 04/11/2018 via Moodle.
  * [TP2]: entrega 09/10/2018 via Moodle.
  * [TP1]: entrega 09/09/2018 via Moodle.
 
@@ -159,6 +160,7 @@ Exercícios do Prof. Renato Assunção
 [Apresentacao]:../../ancn_slides/Apresentacao.pdf
 [Otimizacao 1]:../../ancn_slides/raizes-otimizacao.pdf
 [Otimizacao 2]:../../ancn_slides/raizes-otimizacao03.pdf
+[TP3]:../../ancn_slides/20182-TP3.ipynb
 [TP2]:../../ancn_slides/20182-TP2.ipynb
 [TP1]:../../ancn_slides/20182-TP1.ipynb
 [Python intro]:https://nbviewer.jupyter.org/github/data-8/stat89a/blob/gh-pages/MatricesAndGraphsNB1.ipynb
