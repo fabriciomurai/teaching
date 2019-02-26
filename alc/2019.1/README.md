@@ -57,9 +57,10 @@ https://paulovasconcellos.com.br/como-baixar-anaconda-31fd49c19bd8
 
 Material Suplementar
 --------------------
+ * [Python notebook Hello World](https://github.com/data-8/stat89a/blob/gh-pages/MatricesAndGraphsNB1.ipynb)
  * [Métodos de decomposição QR por Peter Alfeld](https://pdfs.semanticscholar.org/6b42/3dfa845827ca4dc57f6f1736754e938b9c58.pdf)
-* [Fatoração QR e Decomposição em Valores Singulares](http://www.cs.princeton.edu/courses/archive/fall11/cos323/notes/cos323_f11_lecture09_svd.pdf)
-* [Condicionamento e Estabilidade Numérica por Eric Liu, Yelp](http://web.mit.edu/ehliu/Public/Yelp/conditioning_and_precision.pdf)
+ * [Fatoração QR e Decomposição em Valores Singulares](http://www.cs.princeton.edu/courses/archive/fall11/cos323/notes/cos323_f11_lecture09_svd.pdf)
+ * [Condicionamento e Estabilidade Numérica por Eric Liu, Yelp](http://web.mit.edu/ehliu/Public/Yelp/conditioning_and_precision.pdf)
  * "When Pi is not 3.14" (vídeo sobre normas): https://www.youtube.com/watch?v=ineO1tIyPfM
  * Site interativo sobre regressão linear: http://shiny.estatistica.ccet.ufrn.br/regressao-linear-interativa
  * Livro colaborativo de Cálculo Numérico da UFRGS (com introdução ao Python): https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/main.html
