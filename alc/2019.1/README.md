@@ -71,7 +71,7 @@ Material Suplementar
 [Livro CN]: https://www.ime.usp.br/~asano/LivroNumerico/LivroNumerico.pdf
 
 
-[Caracteristicas]: https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/alc/2019.1/nbs/1.\ Why\ are\ we\ here.ipynb
+[Caracteristicas]: https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/alc/2019.1/nbs/1.%20Why%20are%20we%20here.ipynb
 
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
