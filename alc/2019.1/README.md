@@ -33,6 +33,7 @@ Aulas
 |Aula|   Dia  | Assunto | Link Slides |
 |----|--------|--------------------------------------------------------------|-------------|
 | 01 | Feb 26 | Apresentação da disciplina.  | [Apresentacao] |
+| 02 | Mar 11 | Acurácia, Uso de Memória, Velocidade, Escalabilidade.  | [Caracteristicas] |
 
 
 Listas de exercícios
@@ -70,6 +71,7 @@ Material Suplementar
 [Livro CN]: https://www.ime.usp.br/~asano/LivroNumerico/LivroNumerico.pdf
 
 
+[Caracteristicas]: https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/alc/2019.1/nbs/1. Why are we here.ipynb
 
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
