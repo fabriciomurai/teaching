@@ -33,7 +33,8 @@ Aulas
 |Aula|   Dia  | Assunto | Link Slides |
 |----|--------|--------------------------------------------------------------|-------------|
 | 01 | Feb 26 | Apresentação da disciplina.  | [Apresentacao] |
-| 02 | Mar 11 | Acurácia, Uso de Memória, Velocidade, Escalabilidade.  | [Caracteristicas] |
+| 02 | Mar 12 | Acurácia, Uso de Memória, Velocidade, Escalabilidade.  | [Caracteristicas] |
+| 04 | Mar 14 | SVD, Ortogonalide, Normas e NMF.  | [SVD e NMF] |
 
 
 Listas de exercícios
@@ -72,6 +73,7 @@ Material Suplementar
 
 
 [Caracteristicas]: https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/alc/2019.1/nbs/1.%20Why%20are%20we%20here.ipynb
+[SVD e NMF]: https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/alc/2019.1/nbs/2.%20Topic%20Modeling%20with%20NMF%20and%20SVD.ipynb
 
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
