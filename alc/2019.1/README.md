@@ -17,12 +17,13 @@ Turmas:
 
 Horário de monitoria:
 
-* A definir
+* Quarta 12:30 às 14:00, Sala 2031 (Álvaro)
+* Quinta 07:50 às 09:20, Sala 2031 (Juliana)
 
 
 Atualizações importantes
 -------------------------
- * Nenhuma atualização.
+ * Horários das monitorias.
 
 
 Aulas
@@ -34,12 +35,13 @@ Aulas
 |----|--------|--------------------------------------------------------------|-------------|
 | 01 | Feb 26 | Apresentação da disciplina.  | [Apresentacao] |
 | 02 | Mar 12 | Acurácia, Uso de Memória, Velocidade, Escalabilidade.  | [Caracteristicas] |
-| 04 | Mar 14 | SVD, Ortogonalide, Normas e NMF.  | [SVD e NMF] |
+| 03 | Mar 14 | SVD, Ortogonalidade e Normas Vetoriais.  | [SVD e NMF] |
+| 04 | Mar 19 | Revisão SVD, NMF, Normas Matriciais, SVD truncado.  | [SVD e NMF] |
 
 
 Listas de exercícios
 --------------------
- * [Lista XX]: entrega XX/XX/XXXX via Moodle.
+ * Lista 1 e EP1: entrega 21/03/2019 via Moodle.
 
 Tutoriais
 ---------
