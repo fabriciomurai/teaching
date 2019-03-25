@@ -37,11 +37,14 @@ Aulas
 | 02 | Mar 12 | Acurácia, Uso de Memória, Velocidade, Escalabilidade.  | [Caracteristicas] |
 | 03 | Mar 14 | SVD, Ortogonalidade e Normas Vetoriais.  | [SVD e NMF] |
 | 04 | Mar 19 | Revisão SVD, NMF, Normas Matriciais, SVD truncado.  | [SVD e NMF] |
+| 05 | Mar 21 | Posto e valores singulares, SVD randomizado, Complexidade.  | [SVD e NMF] |
+| 06 | Mar 26 | Análise de Componentes Principais  | [PCA notebook] [PCA slides] |
 
 
 Listas de exercícios
 --------------------
- * Lista 1 e EP1: entrega 21/03/2019 via Moodle.
+ * Lista 1 e EP1: entrega 24/03/2019 via Moodle.
+ * Lista 2 e EP2: entrega 28/03/2019 via Moodle.
 
 Tutoriais
 ---------
@@ -76,6 +79,7 @@ Material Suplementar
 
 [Caracteristicas]: https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/alc/2019.1/nbs/1.%20Why%20are%20we%20here.ipynb
 [SVD e NMF]: https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/alc/2019.1/nbs/2.%20Topic%20Modeling%20with%20NMF%20and%20SVD.ipynb
+[PCA notebook]: https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/alc/2019.1/nbs/3.%20Background%20Removal%20with%20Robust%20PCA.ipynb
 
 [Lista SL]: ../../ancn_slides/lista1.pdf
 [Lista SL2]: ../../ancn_slides/lista2.pdf
@@ -128,6 +132,7 @@ Material Suplementar
 [DecomposicaoEspectral]:https://nbviewer.jupyter.org/github/fabriciomurai/teaching/blob/master/ancn_slides/DecomposicaoEspectral.ipynb
 
 
+[PCA slides]: ../../ancn_slides/PCA.pdf
 [00-Intro]: ../../ancn_slides/00te-Intro.pdf
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
 [02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
