@@ -39,12 +39,14 @@ Aulas
 | 04 | Mar 19 | Revisão SVD, NMF, Normas Matriciais, SVD truncado.  | [SVD e NMF] |
 | 05 | Mar 21 | Posto e valores singulares, SVD randomizado, Complexidade.  | [SVD e NMF] |
 | 06 | Mar 26 | Análise de Componentes Principais  | [PCA notebook] [PCA slides] |
+| 07 | Abr 02 | Exemplos com PCA e PCA Robusto. Sistemas triangulares.  | [PCA notebook] [PCA slides] |
 
 
 Listas de exercícios
 --------------------
  * Lista 1 e EP1: entrega 24/03/2019 via Moodle.
  * Lista 2 e EP2: entrega 28/03/2019 via Moodle.
+ * Lista 3 e EP3: entrega 03/04/2019 via Moodle.
 
 Tutoriais
 ---------
