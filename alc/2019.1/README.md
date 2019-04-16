@@ -38,9 +38,13 @@ Aulas
 | 03 | Mar 14 | SVD, Ortogonalidade e Normas Vetoriais.  | [SVD e NMF] |
 | 04 | Mar 19 | Revisão SVD, NMF, Normas Matriciais, SVD truncado.  | [SVD e NMF] |
 | 05 | Mar 21 | Posto e valores singulares, SVD randomizado, Complexidade.  | [SVD e NMF] |
-| 06 | Mar 26 | Análise de Componentes Principais  | [PCA slides] |
-| 07 | Abr 02 | Exemplos com PCA e PCA Robusto.  | [PCA] |
-| 08 | Abr 04 | Sistemas triangulares. Eliminação de Gauss. Pivotação  | [SLs] [SLs slides] |
+| 06 | Mar 26 | Análise de Componentes Principais.  | [PCA slides] |
+| 07 | Abr 02 | Interpretação SVD e Exemplo PCA.  | [PCA] |
+| 08 | Abr 04 | Sistemas Lineares: existência e unicidade.  | [PCA] [PCA slides] |
+| 09 | Abr 09 | Prova 1.  |  |
+| 10 | Abr 11 | Sistemas triangulares. Eliminação de Gauss. Pivotação.  | [SLs] [SLs slides] |
+| 11 | Abr 16 | Fatoração LU. Fatoração PA=LU. Estabilidade.  | [SLs] [SLs slides] |
+| 12 | Abr 23 | Decomposição Cholesky. Uso de decomposição. Número de condição.  |  |
 
 
 Listas de exercícios
@@ -48,6 +52,7 @@ Listas de exercícios
  * Lista 1 e EP1: entrega 24/03/2019 via Moodle.
  * Lista 2 e EP2: entrega 28/03/2019 via Moodle.
  * Lista 3 e EP3: entrega 04/04/2019 via Moodle.
+ * Lista 4 e EP4: entrega 18/04/2019 via Moodle.
 
 Tutoriais
 ---------
