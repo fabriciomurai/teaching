@@ -45,7 +45,8 @@ Aulas
 | 10 | Abr 11 | Sistemas triangulares. Eliminação de Gauss. Pivotação.  | [SLs] [SLs slides] |
 | 11 | Abr 16 | Fatoração LU. Fatoração PA=LU.  | [SLs] [SLs slides] |
 | 12 | Abr 23 | Estabilidade. Decomposição Cholesky. Uso de decomposição.  | [SLs] |
-| 13 | Abr 24 | Implementação, complexidade e estabilidade de Cholesky.Numero de condição.  | [SLs] |
+| 13 | Abr 25 | Implementação, complexidade e estabilidade de Cholesky.Numero de condição.  | [SLs] |
+| 14 | Abr 30 | Ajuste de curvas. Qualidade do ajuste. Método dos Quadrados mínimos.  | [Ajuste slides] [AjusteCurvas] |
 
 
 Listas de exercícios
@@ -55,6 +56,7 @@ Listas de exercícios
  * Lista 3 e EP3: entrega 04/04/2019 via Moodle.
  * Lista 4 e EP4: entrega 23/04/2019 via Moodle.
  * Lista 5 e EP5: entrega 30/04/2019 via Moodle.
+ * Lista 6 e EP6: entrega 07/05/2019 via Moodle.
 
 Tutoriais
 ---------
@@ -145,6 +147,7 @@ Material Suplementar
 
 [PCA slides]: ../../ancn_slides/PCA.pdf
 [SLs slides]: ../../ancn_slides/SLs.pdf
+[Ajuste slides]: ../../ancn_slides/AjusteCurvas.pdf
 [00-Intro]: ../../ancn_slides/00te-Intro.pdf
 [01-Pseudo]: ../../ancn_slides/01-Conceitos.pdf
 [02-SL]: ../../ancn_slides/02-SistemasLineares.pdf
