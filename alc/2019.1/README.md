@@ -23,7 +23,7 @@ Horário de monitoria:
 
 Atualizações importantes
 -------------------------
- * Horários das monitorias.
+ * [Lista 06] e [EP 6] podem ser baixados aqui (Moodle está indisponível).
 
 
 Aulas
@@ -100,6 +100,8 @@ Material Suplementar
 [Lista AC]: ../../ancn_slides/listaAC.pdf
 [Lista IN]: ../../ancn_slides/listaIN.pdf
 [Lista RE]: ../../ancn_slides/listaRE.pdf
+[Lista 06]: ../../ancn_slides/semana6.pdf
+[EP 6]: ../../ancn_slides/ep6.zip
 [Lista 1]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista01.pdf
 [Gabarito 1]: http://homepages.dcc.ufmg.br/~assuncao/an/gabarito_lista_01.pdf
 [Lista 2]: http://homepages.dcc.ufmg.br/~assuncao/an/Lista02.pdf
