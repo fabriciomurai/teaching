@@ -47,6 +47,9 @@ Aulas
 | 12 | Abr 23 | Estabilidade. Decomposição Cholesky. Uso de decomposição.  | [SLs] |
 | 13 | Abr 25 | Implementação, complexidade e estabilidade de Cholesky.Numero de condição.  | [SLs] |
 | 14 | Abr 30 | Ajuste de curvas. Qualidade do ajuste. Método dos Quadrados mínimos.  | [Ajuste slides] [AjusteCurvas] |
+| 15 | Mai 02 | Regressão Linear Simples e Múltipla.  | [RegressaoLinear] |
+| 16 | Mai 07 | Complexidade da Regressão Linear. Decomposição QR.  | [RegressaoLinear] [QRdecomp] |
+| 17 | Mai 09 | Prova 2.  | |
 
 
 Listas de exercícios
